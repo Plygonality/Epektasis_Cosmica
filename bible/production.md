@@ -7,7 +7,7 @@ No new world facts. Thin map of the wiki onto Habitat-kit, Time-slice, Probe-kit
 | Repo | May instance | May not |
 | --- | --- | --- |
 | **This bible** | Tagged facts, OPEN list, key-art caches in `stills/`, calc reprint + tests | Graphs, cooks, Habitat Cuts, a simulator, Habitat-kit playbooks |
-| **[Habitat-kit](https://github.com/Plygonality/Habitat-kit)** | One cell. Actors: airlock, deck bay, truss, hatch. Three Habitat Cuts. Lineage joints / hatches / service modules as mesh vocabulary. | The swarm. The large key-art body. A second generator. Extra epoch IDs. |
+| **[Habitat-kit](https://github.com/Plygonality/Habitat-kit)** | One cell. Actors: airlock, deck bay, truss, hatch. Three Habitat Cuts. Lineage joints / hatches / service modules as mesh vocabulary. | The swarm. The large key-art body. The Nullseed. A second generator. Extra epoch IDs. |
 | **[Time-slice](https://github.com/Plygonality/Time-slice)** | Epoch IDs `construction` / `operational` / `relic` on that cell. Decay-pass + signal-field. | A new identity per epoch. Extra epochs for plot. |
 | **[Probe-kit](https://github.com/Plygonality/Probe-kit)** | Crawler, drone, debris as instances on the cell. Gram-class probe body and sail remnant as props. | A second habitat generator. Named crew. |
 | **[Unit-canon](https://github.com/Plygonality/Unit-canon)** | Grid 1.0 m, deck 3.0 m, airlock 1.0 m, figure 1.80 m. | Numbers copied into graphs in this repo. Lineage does not fork units. |
@@ -26,7 +26,7 @@ Same hull. Epoch is a socket pack. Habitat-kit does not fork Time-slice. System 
 
 Emitter sites stay seed-locked. Epoch only weights which sites are live.
 
-Do not add a fourth cut. Arrival, founding, and war are plot. They are not epochs.
+Do not add a fourth cut. Arrival, founding, and war are plot. They are not epochs. Nullseed cosmological labels in [`nullseed.md`](nullseed.md) are not Time-slice IDs.
 
 Relic maps [`featured-cell.md`](featured-cell.md). Do not stamp names. Do not caption the swarm as dead. Do not default to evil AI, universal war, or magic.
 
@@ -50,7 +50,9 @@ Allowed:
 Rejected:
 
 - The full 3.6 AU swarm as a Habitat-kit object.
+- The Nullseed, its helices, or its Causal Seed.
 - A rigid lattice of cells.
+- A solid Dyson sphere, Matrioshka shell, Bishop ring, or O'Neill cylinder standing in for the swarm or the Nullseed.
 - A planet-scale body labeled Kepler-62b–f.
 - Sol-white key on a Kepler cell.
 - Named signage, chapels, flags, crew, invented protagonists.

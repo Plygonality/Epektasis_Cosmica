@@ -55,6 +55,7 @@ A world bible. Habitat-kit and the rest of the Plygonality stack read it. `bible
 | [`bible/lineages.md`](bible/lineages.md) | Batch lineages as architectural ancestry. |
 | [`bible/preservation.md`](bible/preservation.md) | Competing Earth reconstructions. |
 | [`bible/featured-cell.md`](bible/featured-cell.md) | Featured relic social history vs physical failure. |
+| [`bible/nullseed.md`](bible/nullseed.md) | Terminal-class Nullseed. Cosmological epochs, not a Gregorian year. |
 | [`bible/appendix-launch.md`](bible/appendix-launch.md) | Launch integrals. Script: [`calc/lightsail.py`](calc/lightsail.py). |
 | [`bible/production.md`](bible/production.md) | Thin map onto Habitat-kit / Time-slice / Blend-ci. Habitat-kit owns generator notes. |
 | [`bible/open-questions.md`](bible/open-questions.md) | OPEN list. Leave it. |

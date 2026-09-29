@@ -70,6 +70,10 @@ Do not fill them in a still brief, a graph comment, or a README aside. Promote o
 
 Key-art: [`../stills/`](../stills/). Two families, tracked with Git LFS: Kepler system (`01`–`03`) and Sol launch (`04`–`07`). Do not add stills to close an OPEN item. Do not label the irregular silhouette as Kepler-62b–f. Do not caption launch stills as Kepler-62. Launch diamonds are not cell silhouettes. Habitat Cuts are generated from Habitat-kit and stay unshot here. Do not dump Habitat-kit production notes into `bible/`.
 
+## Nullseed
+
+Later terminal-class megastructure. Detail: [`../bible/nullseed.md`](../bible/nullseed.md). Not the Habitat-kit cell, not the 3.6 AU swarm, not a rigid shell, not the large key-art body. No Gregorian construction date. Topology-preserving vacuum bifurcation is fictional setting physics, not a work figure and not a 2085 probe capability.
+
 ## Tags
 
 Keep CANON / INFERENCE / OPEN. Definitions: [`../schema/status-tags.md`](../schema/status-tags.md). Machine contract: [`../schema/constraints.schema.json`](../schema/constraints.schema.json).

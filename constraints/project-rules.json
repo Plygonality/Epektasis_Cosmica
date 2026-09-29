@@ -86,6 +86,11 @@
       "statement": "Do not grow bible/ as a dumping ground for production notes that belong in Habitat-kit. bible/production.md is a map of sockets and still ownership, not a generator playbook."
     },
     {
+      "id": "nullseed-boundary",
+      "tag": "CANON",
+      "statement": "The Nullseed is a later terminal-class megastructure documented in bible/nullseed.md. It is not the Habitat-kit cell, not the 3.6 AU swarm, not a rigid shell, and not the large key-art body. It has no Gregorian construction date. Topology-preserving vacuum bifurcation is fictional setting physics, not a work figure and not a 2085 probe capability."
+    },
+    {
       "id": "tags",
       "tag": "CANON",
       "statement": "Keep CANON / INFERENCE / OPEN. Definitions: schema/status-tags.md."

@@ -10,6 +10,7 @@ Human + AI context. Habitat-kit is a different repo. This is a world bible, not 
 | [`lineages.md`](lineages.md) | Batch lineages as architectural ancestry. |
 | [`preservation.md`](preservation.md) | Competing Earth reconstructions. |
 | [`featured-cell.md`](featured-cell.md) | Featured relic social history vs physical failure. |
+| [`nullseed.md`](nullseed.md) | Terminal-class Nullseed. Later than the stellar-era swarm. No Gregorian year. |
 | [`appendix-launch.md`](appendix-launch.md) | Launch integrals. Script: [`../calc/lightsail.py`](../calc/lightsail.py). |
 | [`production.md`](production.md) | Thin map onto Habitat-kit / Time-slice / Blend-ci. Habitat-kit owns generator notes. |
 | [`open-questions.md`](open-questions.md) | OPEN list. Do not fill it. |

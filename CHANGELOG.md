@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.7.0, 2026-09-29
+
+Nullseed. Terminal-class descendant megastructure. No Gregorian construction date.
+
+- New detail file `bible/nullseed.md`. Five subsystems: Harvest Mantle, Epoch Lattice, Continuity Weave, Moving Present, Causal Seed.
+- Wiki §22, chronology §7, README indexes, featured-cell disambiguation, production reject, project-rule boundary.
+- Evolutionary order is cosmological epoch labels after the provisional stellar-era rows, including the featured relic. The relic's failure sequence stays OPEN. Mantle recycling is not that failure.
+- Topology-preserving vacuum bifurcation is a late setting lock only. It is not established physics and not a 2085–2095 probe capability.
+- Subjective continuity of a reconstructed mind stays unresolved, consistent with the 2045–2058 WBE lock.
+- No still added. `01`–`07` are not Nullseed frames. No OPEN item filled. No binding number changed.
+- Calc package version set to 0.7.0 so it matches this bible revision.
+
 ## 0.6.0, 2026-09-24
 
 Launch-era stills. Original probes leaving Earth, 2085–2095 A.D.

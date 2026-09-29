@@ -8,6 +8,8 @@ The Habitat-kit cell. Three epochs only. Social history is locked. The physical 
 
 **CANON.** Its active population eventually migrated.
 
+**CANON.** That migration is a fact about this cell. It does not name the Nullseed as the destination. The Nullseed is a later class, after this relic on the provisional timeline. Mantle recycling does not explain the hull. See [`nullseed.md`](nullseed.md).
+
 **CANON.** Some archives remained because no available restoration met the applicable fidelity and consent conditions.
 
 **CANON.** Maintenance continued under a long-term obligation.

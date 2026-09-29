@@ -16,6 +16,8 @@ Reader-facing dates are Gregorian A.D. Tagged summaries also live in [`wiki.md`]
 
 **CANON.** Dormancy is not relativistic time dilation. A stored WBE skips the interval because it is not running.
 
+**CANON.** The Nullseed uses these same three clocks. Its external log switches from Gregorian A.D. to cosmological epoch labels. That switch does not add a shared now. Detail: [`nullseed.md`](nullseed.md). Epoch rules: §7.
+
 **CANON.** Computational acceleration does not remove energy cost or the 982 yr light-travel delay.
 
 **OPEN.** What hardware keeps the external and onboard clocks.
@@ -70,6 +72,8 @@ Pre-launch rows are programme history. They are fiction, not forecasts.
 | After successful capture | Industry, archive verification, compute, selected activation. A surviving archive is not yet a society. | Provisional |
 | After first cells close | Independent orbital cells proliferate and specialise. Lineages and preservation practices diverge. | Provisional |
 | Later | Some cells isolate or go obsolete. The featured Habitat-kit cell enters the relic state. | Provisional |
+| After that stellar-era sequence | Nullseed phase I. Post-biological descendants adopt the terminal-class architecture. No year. | Provisional |
+| Cosmological epochs after phase I | Nullseed phases II–X. External labels are epoch names in [`nullseed.md`](nullseed.md). Not A.D. dates. | Provisional |
 
 **INFERENCE.** An arrival confirmation, if sent at a capture date \(T\), can reach Sol around \(T+982\). An immediate reply can reach Kepler around \(T+1964\). \(T\) itself is OPEN.
 
@@ -78,3 +82,13 @@ Pre-launch rows are programme history. They are fiction, not forecasts.
 **OPEN.** Whether later faster missions, or descendants from nearer systems, arrive at Kepler-62 before the original 2085–2095 probes.
 
 **INFERENCE.** A later hop that coasts at 0.5c would take about 1 964 external years for 982 ly, plus its own boost and an unspecified capture. That is a capability sketch, not a locked launch.
+
+## 7. Nullseed epochs
+
+**CANON.** The Nullseed is later than the provisional stellar-era rows, including the featured relic. It does not date that relic, and it does not explain the hull. Mantle recycling is not the failure sequence. The failure sequence stays OPEN.
+
+**CANON.** No Gregorian construction date is assigned. Assigning one is a defect. External labels are cosmological epoch names: Stelliferous, Degenerate, Black Hole, Dark. Those names are order labels taken from the broad sequence in Adams and Laughlin (1997). Their boundary years are not copied into this table. See [`nullseed.md`](nullseed.md).
+
+**CANON.** Hibernation on the Nullseed is dormancy under §1. A mind can accumulate centuries of experienced time while the external log advances by trillions of years because the mind is not running during the gap. That is not time dilation.
+
+**CANON.** Phase X, the daughter-universe lineage, is not a message received at Sol or at Kepler-62. It does not extend the Gregorian frame.

@@ -1,6 +1,6 @@
 # Wiki
 
-Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPEN list: [`open-questions.md`](open-questions.md). Detail files: [`probes.md`](probes.md), [`chronology.md`](chronology.md), [`lineages.md`](lineages.md), [`preservation.md`](preservation.md), [`featured-cell.md`](featured-cell.md), [`appendix-launch.md`](appendix-launch.md).
+Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPEN list: [`open-questions.md`](open-questions.md). Detail files: [`probes.md`](probes.md), [`chronology.md`](chronology.md), [`lineages.md`](lineages.md), [`preservation.md`](preservation.md), [`featured-cell.md`](featured-cell.md), [`appendix-launch.md`](appendix-launch.md), [`nullseed.md`](nullseed.md).
 
 ## 1. Scope
 
@@ -13,6 +13,10 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 **CANON.** Do not invent named protagonists because names are now permitted. Habitat-kit, stills, and production do not instance named people, factions, religions, or generation-ship endings.
 
 **CANON.** Fictional technological premises (picotechnology, WBE, ASI, consensual mind integrations, the abiogenesis route) are setting locks. They are not forecasts of demonstrated science.
+
+**CANON.** Topology-preserving vacuum bifurcation is a further setting lock, used only by the Nullseed's final transition. It is not a 2085–2095 probe capability and it is not established science. Detail: [`nullseed.md`](nullseed.md).
+
+**CANON.** The Nullseed is later Stapledon worldbuilding. It does not replace the one-cell frame, the three Habitat Cuts, the 3.6 AU swarm, or the key-art stills.
 
 ## 2. Status tags
 
@@ -145,6 +149,8 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 **CANON.** One Habitat-kit build is one cell.
 
 **CANON.** Cells specialise. Energy, manufacturing, computation, archives, embodied habitation, and preservation practice are different jobs. The featured Habitat-kit cell is one relic computing / archive habitat, not the swarm.
+
+**CANON.** The Nullseed is a later terminal-class structure descended from this industry. It is not this 3.6 AU cell field and not a solid shell. [`nullseed.md`](nullseed.md).
 
 ## 9. Mass budget
 
@@ -329,6 +335,13 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 - Invents named protagonists or stamps founder names on a Habitat Cut.
 - Fills an OPEN item with a church or a government.
 - Copies Unit-canon lengths into this repo as if owned here.
+- Dates the Nullseed with a Gregorian year, or treats it as the 3.6 AU cell swarm, the featured relic, or the large key-art body.
+- Draws the Nullseed as a solid Dyson sphere, Matrioshka shell, Bishop ring, O'Neill cylinder, or rigid lattice.
+- Treats Nullseed hibernation as relativistic time dilation.
+- Treats topology-preserving vacuum bifurcation as established physics, or as hardware on the 2085–2095 probes.
+- Treats the Planck length as a measured minimum length, or as a Nullseed memory cell.
+- Treats a reconstructed mind as proof of subjective continuity.
+- Relabels `01`–`07` as a Nullseed still.
 
 ## 15. Non-goals
 
@@ -362,6 +375,8 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **OPEN.** Whether later faster missions or nearer-system descendants reach Kepler-62 first.
 
+**CANON.** Later than the provisional stellar-era rows, the Nullseed uses cosmological epoch labels. No Gregorian construction date. [`nullseed.md`](nullseed.md). Clocks: [`chronology.md`](chronology.md) §7.
+
 ## 18. Picotechnology and archive
 
 **CANON.** Definitions and limits in [`probes.md`](probes.md) §4–6.
@@ -381,3 +396,17 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 ## 21. Featured relic
 
 **CANON.** Social history in [`featured-cell.md`](featured-cell.md). Physical failure sequence remains OPEN.
+
+## 22. Nullseed
+
+**CANON.** The Nullseed is a terminal-class evolutionary megastructure of the Stapledon programme, specified in [`nullseed.md`](nullseed.md). It is later than the stellar-era Kepler-62 swarm. It is not one Habitat-kit cell, not a rigid shell, and not the large key-art body.
+
+**CANON.** Its function is to preserve and propagate conscious civilisation across cosmological epochs by compressing the active substrate, conserving free energy, and transferring a seed through a fictional transition once the parent universe can no longer pay for conscious runs.
+
+**CANON.** Five subsystems: Harvest Mantle (expendable outer industry, descended from the probe lineage), Epoch Lattice (nested, partially disconnected layers for successive regimes), Continuity Weave (redundant mind records, fidelity and consent, no settled theory of subjective continuity), Moving Present (authorised runs separated by lengthening dormancy), Causal Seed (the final transfer).
+
+**CANON.** External time for these phases is a cosmological epoch label. No construction year is assigned. The three clocks in [`chronology.md`](chronology.md) still apply. Dormancy is not time dilation.
+
+**CANON.** Topology-preserving vacuum bifurcation is fictional setting physics, inspired by false-vacuum and baby-universe discussions and not supplied by them. The crossing cargo is the selected archive, a reconstruction substrate, and the activation machinery. The mantle does not cross. The far-side object is a compact autonomous seed in the functional sense of the original Von Neumann probes. It is not a 1–10 g lightsail.
+
+**CANON.** No still of the Nullseed is in [`../stills/`](../stills/). Look: dark asymmetrical segmented helices around a shrinking computational core, radial radiators, sparse non-thermal violet markers, infrared waste heat. Late form is almost inactive. Rejected lookalikes are listed in [`nullseed.md`](nullseed.md).

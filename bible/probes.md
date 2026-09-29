@@ -16,6 +16,8 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** The programme is fiction. It becomes possible through accelerated fictional work on human whole-brain emulation, ASI, consensual integrations of human-derived minds and artificial intelligences, extremely compact manufacturing and storage, and abiogenesis / biological reconstruction. Those are setting premises, not forecasts.
 
+**CANON.** The far-future descendant class of this programme is the Nullseed. A Nullseed is not a 1–10 g probe and not a lightsail. See [`nullseed.md`](nullseed.md).
+
 ## 2. Probe body
 
 **CANON.** The probe body has a mass of approximately 1–10 g.
