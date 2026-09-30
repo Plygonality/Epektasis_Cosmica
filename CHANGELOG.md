@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.7.1, 2026-09-30
+
+Project renamed *Epektasis Cosmica*. Scope now reads as the Stapledon programme's civilisations, megastructures, minds, and cosmology, not only the Sol and Kepler-62 swarms.
+
+- README title and intro, bible README, and wiki §1 carry the new name.
+- "Stapledon swarm" still names the stellar-era cell swarms. The Nullseed is still a Stapledon-programme class.
+- Repository slug, `stapledon-swarm-calc` package name, and `stapledon-swarm.constraints/1` schema id unchanged, so downstream repos and CI keep resolving.
+- No world fact changed. No OPEN item filled. No binding number changed.
+- Calc package version set to 0.7.1 so it matches this bible revision.
+
 ## 0.7.0, 2026-09-29
 
 Nullseed. Terminal-class descendant megastructure. No Gregorian construction date.

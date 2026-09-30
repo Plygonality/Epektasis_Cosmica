@@ -1,6 +1,6 @@
 # Bible
 
-Human + AI context. Habitat-kit is a different repo. This is a world bible, not a novel and not a generator. Calc and schema are what CI enforces. This folder is not.
+*Epektasis Cosmica.* Human + AI context. Habitat-kit is a different repo. This is a world bible, not a novel and not a generator. Calc and schema are what CI enforces. This folder is not.
 
 | File | Job |
 | --- | --- |

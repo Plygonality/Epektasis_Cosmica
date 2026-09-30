@@ -6,6 +6,8 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** World frame for one independently orbiting cell in a Stapledon swarm at Kepler-62. Habitat-kit and the rest of the Plygonality stack read it.
 
+**CANON.** The project name is *Epektasis Cosmica*. It covers the Stapledon programme's civilisations, megastructures, and minds and the cosmology they evolve with. "Stapledon swarm" still names the stellar-era cell swarms at Sol and Kepler-62. The name adds no world fact and fills no OPEN item.
+
 **CANON.** This repo is a world bible and production reference. It is not Habitat-kit, Blend-ci, a swarm integrator, a game engine, or a story dump for the concept generator.
 
 **CANON.** Controlled, versioned worldbuilding is in scope: social history, WBE identity questions, and settlement institutions, tagged CANON / INFERENCE / OPEN.
