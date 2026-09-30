@@ -1,6 +1,8 @@
-# Stapledon-swarm
+# Epektasis Cosmica
 
-Hard-SF world bible for Habitat-kit. One independently orbiting cell in the Kepler-62 Stapledon swarm. Not a novel. Not the generator.
+Hard-SF world bible for the civilisations, megastructures, and minds of the Stapledon programme, and for the cosmology they evolve with, from the Sol and Kepler-62 swarms to the Nullseed. Habitat-kit reads it for one independently orbiting cell in the Kepler-62 Stapledon swarm. Not a novel. Not the generator.
+
+*Epektasis* is Gregory of Nyssa's word for a straining forward that never arrives. The repository slug, package name, and constraint schema id stay `stapledon-swarm` so that downstream repos and CI keep resolving.
 
 | Path | Role |
 | --- | --- |
