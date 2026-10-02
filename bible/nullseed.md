@@ -35,25 +35,27 @@ This file adds a later class. It does not revise the 2085–2095 dispatch, the 0
 
 **CANON.** The object is specified as a technological system with successive operational forms. A later form dismantles, recycles, or abandons an earlier form under an energy budget. There is no extra metabolism, genome, or life cycle beyond the energy, heat, and information budgets in this entry.
 
-**CANON.** "Post-biological" here means that the continuing Nullseed population is implemented as computational minds. Stellar-era biological communities can still exist under the practices in [`preservation.md`](preservation.md). This entry does not decide whether any WBE is instantiated in a body at Kepler-62. That remains OPEN.
+**CANON.** "Post-biological" here means that the continuing Nullseed population is implemented as computational minds. Stellar-era biological practice is specified in [`preservation.md`](preservation.md). This entry does not choose a practice.
 
 **CANON.** The key-art frames [`../stills/01-eclipse.jpg`](../stills/01-eclipse.jpg), [`../stills/02-lattice.jpg`](../stills/02-lattice.jpg), and [`../stills/03-inward.jpg`](../stills/03-inward.jpg) show the stellar-era field of independently orbiting cells. They are not portraits of the Nullseed. Launch frames `04`–`07` are gram-class sails at Earth. No Nullseed still is stored in this repo.
 
 ## Historical origins
 
-**CANON.** The ancestry is the programme in [`probes.md`](probes.md) and the timeline in [`chronology.md`](chronology.md). Reader-facing dates for that history are Gregorian A.D. in a declared Sol-barycentric frame. The Nullseed does not add a year to that table.
+**CANON.** Ancestry is the programme in [`probes.md`](probes.md) and the timeline in [`chronology.md`](chronology.md). Reader-facing dates for that history are Gregorian A.D. in a declared Sol-barycentric frame. This entry adds no year to that table. Probe-body mass, the 0.2c coast, picotechnology, and the archive cutoff stay in those files.
 
-**CANON.** From 2045–2058 the setting contains the first convincing human WBEs. Behavioural resemblance, memory continuity, and subjective identity are already different questions. From 2058–2070, ASIs and consenting WBEs form integrated cognition. Some stay identifiable. Some become composites. From 2065–2076, picotechnology means picometre-precision fabrication by larger atomic and molecular machines. From 2085–2095, about one billion original Von Neumann probes are dispatched in batches of thousands. A probe body is 1–10 g plus a sail. It carries dormant WBE and ASI states, picobot seeds, and a finite archive. It does not run a civilisation.
+**CANON.** Phase I follows the stellar-era sequence in which cells, archives, lineages, preservation practices, and the featured relic already exist. It is the later decision, inside that post-biological civilisation, to stop treating further habitat spread as the end state. It has no Gregorian date. Index of the sequence: [`chronology.md`](chronology.md) §5. Lineages: [`lineages.md`](lineages.md). The featured relic: [`featured-cell.md`](featured-cell.md).
 
-**CANON.** Settlement at Kepler-62 occurs. The mechanism that takes an original 0.2c coast into a bound orbit stays OPEN. Industry, archive verification, computation, and selected activation come after successful capture, in that order, with no calendar lock. Cells then proliferate on independent orbits inside an outer radius of 3.6 AU. They specialise. Energy, manufacturing, computation, archives, embodied habitation, and preservation practice are different jobs. Lineages persist as construction ancestry, including rules for activating or migrating stored minds. See [`lineages.md`](lineages.md).
+**CANON.** The featured relic's migration destination is not identified as the Nullseed. The featured relic's physical deterioration is not explained by Harvest Mantle recycling. One relic cell is not the Nullseed and is not a dead swarm.
 
-**CANON.** The featured Habitat-kit cell is one relic computing and archive habitat inside that stellar-era swarm. Its active population migrated. Some damaged or unresolved archives stayed because no restoration met the fidelity and consent tests. One relic cell is not a dead swarm, and it is not the Nullseed. Mantle recycling is not the explanation of that hull. The physical failure sequence stays OPEN. See [`featured-cell.md`](featured-cell.md).
+**CANON.** The builders are Stapledon descendants. Whether a later, faster mission reached Kepler-62 before the original probes stays the OPEN item in [`chronology.md`](chronology.md) §6. Either outcome leaves the builders inside that descent.
 
-**CANON.** Phase I of the Nullseed is the later decision, inside that post-biological civilisation, to stop treating further habitat spread as the end state. The decision has no Gregorian date. It sits in the provisional band: after cells and archives exist, and before the cosmological phases below. Whether a later, faster mission reached Kepler-62 before the original probes stays OPEN. Either way, the builders are Stapledon descendants. This entry does not pick a batch, a founder, or a government.
+**OPEN.** Whether any WBE is instantiated in biological flesh at Kepler-62.
 
-**CANON.** Local, nearby, and distant shares of the original billion probes stay OPEN. This entry does not census how many branches complete a Nullseed. It locks the class. Parallel branches are not given copies by implication.
+**OPEN.** How many branches of the original programme ever build a Nullseed. This entry locks the class. It does not copy the class onto parallel branches.
 
-**CANON.** Nothing in the origin story closes destination braking, clock hardware, cell count, plate fill, the mining status of Kepler-62e or 62f, subatomic machines on the gram-class hop, or the identity of the large key-art body.
+**OPEN.** Which batch, founder, government, or political institution first adopts the Nullseed. The question stays unset. No name is supplied here.
+
+**CANON.** Nothing in this entry closes destination braking, clock hardware, cell count, plate fill, the mining status of Kepler-62e or 62f, subatomic machines on the gram-class hop, the local / nearby / distant probe shares, or the identity of the large key-art body. Those OPEN items stay in their home files and in [`open-questions.md`](open-questions.md).
 
 ## Evolutionary principle
 
@@ -103,7 +105,7 @@ flowchart TD
 
 **CANON.** Picotechnology, as locked in [`probes.md`](probes.md), is the manufacturing premise for mantle construction: picometre precision, atomic and molecular working machines, energy in, waste heat out, real feedstocks, no chemical transmutation of missing elements, and common-mode failure still possible. Compactness is not evidence that an archive survived. This entry does not add subatomic machines to the original probe. That question stays OPEN.
 
-**CANON.** While stars are useful, mantle collectors take stellar radiation and other local energy the epoch actually has. At a Kepler-like orbit the stellar-era flux scale remains the swarm's work figure, about 27.3 W/m² at 3.6 AU around the adopted 0.26 L☉ star. That number is not retuned for the Nullseed, and it is not a statement that the finished mantle sits at 3.6 AU. Direct starlight can support local manoeuvres, as it can for probes. It is not an interstellar brake, and it is not assumed to power the Degenerate Era.
+**CANON.** While stars are useful, mantle collectors take stellar radiation and other local energy the epoch actually has. Stellar-era flux, radius, and star work figures stay in [`wiki.md`](wiki.md) §6 and §8. This entry does not retune them and does not place the finished mantle at 3.6 AU. Direct starlight is a local-manoeuvre source, as for probes. It is not an interstellar brake, and it is not the power source assumed for the Degenerate Era.
 
 **CANON.** Autonomous mining and manufacturing run under the same physical limits as any other industry in the setting. They consume feedstock, spend energy, reject heat, and produce scrap. Replication is allowed during expansion and consolidation because new plant increases reserves. Replication is curtailed when new plant increases the maintenance load faster than the reserves. The curtailment is a logged engineering policy, not a malfunction.
 
@@ -111,7 +113,7 @@ flowchart TD
 
 **CANON.** Maintenance of inner systems is a mantle duty only while the inner system is still in construction or in a coupled acceptance period. Partial disconnection, defined in the next section, is the handoff. A mantle that must stay online forever has failed its own specification.
 
-**CANON.** No total mass is locked for a mantle. The plate examples in the wiki mass table are not a Nullseed budget. 1 mm at 1% of a 3.6 AU sphere remains about 0.012 M⊕. 12 M⊕ remains the 1 m plate example. Neither row is the mantle.
+**CANON.** No total mass is locked for a mantle. Plate-mass examples stay in [`wiki.md`](wiki.md) §9. Neither row is a mantle budget and neither row is total swarm mass.
 
 ## The Epoch Lattice
 
@@ -179,15 +181,9 @@ flowchart TD
 
 **CANON.** As usable free energy declines, active intervals become rarer on the external clock. The policy is to spend a smaller share of the remaining operations per unit of cosmological time. Hibernation is the stored gap between runs. It is dormancy. Dormancy is not relativistic time dilation. A stored WBE skips the gap because the process is not executing. Any time-dilation correction that applies to a particular carrier is a correction to hardware proper time only.
 
-**CANON.** Three clocks are kept, the same three as in [`chronology.md`](chronology.md). The external log changes units. It does not become a fourth clock.
+**CANON.** Three clocks are the clocks in [`chronology.md`](chronology.md) §1. The external log changes units to cosmological epoch labels. It does not become a fourth clock and it does not add a shared now. A replaced carrier starts a new hardware proper-time log. The Weave records the handoff. Experienced age advances only while that mind's process executes. Nullseed hibernation is dormancy under those clocks, not relativistic time dilation.
 
-| Clock | What it measures on the Nullseed |
-| --- | --- |
-| External cosmological time | The outside log. Gregorian A.D. in a Sol-barycentric frame remains the reader-facing scale for the early programme. Nullseed phases are labelled by cosmological epoch, not by a new universal present. |
-| Hardware proper time | Proper time accumulated by a given physical carrier. A replaced carrier starts a new proper-time log. The Weave records the handoff. |
-| Accumulated subjective runtime | Experienced age of a given mind while that mind's process is executing. Near zero across a gap if the mind is only stored. |
-
-**CANON.** What hardware keeps these logs remains OPEN, as it does for the Kepler hop. The frames are locked. The instrument is not.
+**OPEN.** The hardware that maintains these logs remains unset, as it does for the Kepler hop. The frames are locked. The instrument is not.
 
 **CANON.** The intended disparity is large. A mind can accumulate centuries of subjective runtime while the external log advances by trillions of years. The mechanism is the dormant gap, repeated and lengthened, not a slower metabolism inside one continuous run and not a relativistic shortcut.
 

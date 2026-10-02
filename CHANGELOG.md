@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.7.2, 2026-10-02
+
+Vault pass. `bible/` is the authorial information vault: one fact, one home, wiki as the compact index. No OPEN item promoted. No world fact added from outside `main`.
+
+- Status vocabulary gains `PROPOSED` as staging only. It does not close an OPEN item and nothing is tagged PROPOSED in this pass. Schema enum, project-rules tag line, and `schema/status-tags.md` match.
+- Ownership: probes own the origin programme, payload, sail family, hop limits, and launch look-dev. Chronology owns the three clocks, the dated programme, the coast model, and the unbraked passage band. Appendix-launch owns the boost derivation. Featured-cell owns the three Habitat Cut readings. Nullseed owns the terminal-class architecture. Wiki keeps star, planets, swarm geometry, plate-mass examples, the key-art body, and the Kepler-system captions, and indexes everything else.
+- Duplicate retellings removed from the wiki transit, payload, programme, chronology, picotechnology, launch-still, and Nullseed sections, and from the Nullseed historical-origins recap and clock table. Plate-mass and flux figures in the Nullseed file now point at the wiki.
+- `calc/lightsail.py` and `bible/appendix-launch.md` agree on the adopted family (226 s / 225 s / 202 s, 7.31 million km, ≈ 0.049 AU, ≈ 34 000 g₀). No compromise number was introduced.
+- OPEN register: items 1–29 kept unanswered. Items 30 and 31 index Nullseed census and first-adoption questions that were already unset in `bible/nullseed.md`. Item 6 wording aligned to biological flesh at Kepler-62. No answer added.
+- Rejected readings stay rejected, including living crew, the 600 / 300 / 100 million split, 12 M⊕ at 1 mm, the 0.001 g₀ model, and 7191–7201 A.D. as a current arrival.
+- Calc package version set to 0.7.2 so it matches this bible revision.
+
 ## 0.7.1, 2026-09-30
 
 Project renamed *Epektasis Cosmica*. Scope now reads as the Stapledon programme's civilisations, megastructures, minds, and cosmology, not only the Sol and Kepler-62 swarms.

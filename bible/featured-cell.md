@@ -22,7 +22,7 @@ The Habitat-kit cell. Three epochs only. Social history is locked. The physical 
 - A surviving signal requests resources for restoration or continued preservation.
 - Some intended inhabitants have never been instantiated there.
 
-**CANON.** One relic cell is not proof that the whole swarm collapsed. Other cells can stay active.
+**CANON.** One relic cell does not prove the swarm collapsed. Other cells remain compatible with the record as active.
 
 **CANON.** The leftover signal is a request for restoration or continued preservation. Exact wording stays OPEN.
 
@@ -32,9 +32,9 @@ The Habitat-kit cell. Three epochs only. Social history is locked. The physical 
 
 **CANON.** Oxidation on an exterior needs a credible environment or exposure history. It is not the default vacuum weathering. Other deterioration modes do not require an oxidising atmosphere.
 
-**CANON.** Do not default the physical story to an evil AI, a universal war, or forgotten magic.
+**CANON.** Do not default the failure to evil AI, universal war, forgotten magic, or Nullseed mantle recycling.
 
-**CANON.** Adopted social history (migration, unawakened archives, obligation) is not a substitute for that physical sequence. A brief may show empty volume and protected racks without explaining the hole in the hull.
+**CANON.** Adopted social history (migration, unawakened archives, obligation) is not a substitute for that physical sequence. A brief that shows empty volume and protected racks does not thereby explain the hole in the hull.
 
 ## Production
 
@@ -44,4 +44,10 @@ The Habitat-kit cell. Three epochs only. Social history is locked. The physical 
 
 **CANON.** Habitat-kit produces this one cell, not the swarm.
 
-Construction still reads as scaffold and work lights. Operational still reads as a closed, inhabited or maintainable hull. Relic reads as empty habitation, protected archive plant, mixed repairs, sparse leftover signal.
+**CANON.** The three Habitat Cut states, and only these three, read as follows. Epoch is a parameter on the same hull. Socket weights live in [`production.md`](production.md). Index: [`wiki.md`](wiki.md) §11.
+
+| Cut | Time-slice id | Reads as |
+| --- | --- | --- |
+| construction | `construction` | Scaffold, incomplete, work lights, arcs. Almost no oxidation. |
+| operational | `operational` | Closed hull. Structured lights. Wear. Scaffold gone. |
+| relic | `relic` | Empty former habitation, protected archive plant, mixed-period repairs, leftover signal. Scaffold gone. |

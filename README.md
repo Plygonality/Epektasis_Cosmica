@@ -51,7 +51,7 @@ A world bible. Habitat-kit and the rest of the Plygonality stack read it. `bible
 
 | File | Job |
 | --- | --- |
-| [`bible/wiki.md`](bible/wiki.md) | Numbered wiki. Claims tagged. Summaries link to detail files. |
+| [`bible/wiki.md`](bible/wiki.md) | Compact tagged index. Detail files own the full record. |
 | [`bible/probes.md`](bible/probes.md) | Payload, picotechnology, laser-sail family, hop limits, launch look-dev. |
 | [`bible/chronology.md`](bible/chronology.md) | Three clocks. Gregorian A.D. timeline. Passage vs capture. |
 | [`bible/lineages.md`](bible/lineages.md) | Batch lineages as architectural ancestry. |

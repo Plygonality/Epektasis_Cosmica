@@ -1,6 +1,8 @@
 # Wiki
 
-Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPEN list: [`open-questions.md`](open-questions.md). Detail files: [`probes.md`](probes.md), [`chronology.md`](chronology.md), [`lineages.md`](lineages.md), [`preservation.md`](preservation.md), [`featured-cell.md`](featured-cell.md), [`appendix-launch.md`](appendix-launch.md), [`nullseed.md`](nullseed.md).
+Tagged index. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPEN list: [`open-questions.md`](open-questions.md).
+
+Detail files own the full record: [`probes.md`](probes.md), [`chronology.md`](chronology.md), [`lineages.md`](lineages.md), [`preservation.md`](preservation.md), [`featured-cell.md`](featured-cell.md), [`appendix-launch.md`](appendix-launch.md), [`nullseed.md`](nullseed.md). A number repeated below is index-only and names that owner. This file is the home for scope, the star, the planets, swarm geometry, the plate-mass examples, the one-cell scope, the key-art body, and the Kepler-system still captions.
 
 ## 1. Scope
 
@@ -10,105 +12,95 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** This repo is a world bible and production reference. It is not Habitat-kit, Blend-ci, a swarm integrator, a game engine, or a story dump for the concept generator.
 
-**CANON.** Controlled, versioned worldbuilding is in scope: social history, WBE identity questions, and settlement institutions, tagged CANON / INFERENCE / OPEN.
+**CANON.** Controlled, versioned worldbuilding is in scope: social history, WBE identity questions, and settlement institutions, tagged CANON / INFERENCE / OPEN / PROPOSED.
 
 **CANON.** Do not invent named protagonists because names are now permitted. Habitat-kit, stills, and production do not instance named people, factions, religions, or generation-ship endings.
 
-**CANON.** Fictional technological premises (picotechnology, WBE, ASI, consensual mind integrations, the abiogenesis route) are setting locks. They are not forecasts of demonstrated science.
+**CANON.** Fictional technological premises (picotechnology, WBE, ASI, consensual mind integrations, the abiogenesis route) are setting locks. They are not forecasts of demonstrated science. Definitions: [`probes.md`](probes.md).
 
-**CANON.** Topology-preserving vacuum bifurcation is a further setting lock, used only by the Nullseed's final transition. It is not a 2085–2095 probe capability and it is not established science. Detail: [`nullseed.md`](nullseed.md).
+**CANON.** Topology-preserving vacuum bifurcation is a further setting lock, used only by the Nullseed's final transition. It is not a 2085–2095 probe capability and it is not established science. Owner: [`nullseed.md`](nullseed.md).
 
-**CANON.** The Nullseed is later Stapledon worldbuilding. It does not replace the one-cell frame, the three Habitat Cuts, the 3.6 AU swarm, or the key-art stills.
+**CANON.** The Nullseed is later Stapledon worldbuilding. It does not replace the one-cell frame, the three Habitat Cuts, the 3.6 AU swarm, or the key-art stills. Owner: [`nullseed.md`](nullseed.md).
 
 ## 2. Status tags
 
-**CANON.** Major claims in this file and the detail files carry CANON, INFERENCE, or OPEN.
+**CANON.** Major claims carry CANON, INFERENCE, OPEN, or PROPOSED. Definitions and the non-promotion rule for PROPOSED: [`../schema/status-tags.md`](../schema/status-tags.md).
 
-**CANON.** OPEN means unset. Filling it is a bible revision logged in [`../CHANGELOG.md`](../CHANGELOG.md).
+**CANON.** OPEN means unset. Filling it is a bible revision logged in [`../CHANGELOG.md`](../CHANGELOG.md). PROPOSED does not close an OPEN item.
+
+**CANON.** Precedence: [`../constraints/project-rules.json`](../constraints/project-rules.json), then the tagged detail file that owns the claim, then this index.
 
 ## 3. Sol / Kepler split
 
-**CANON.** Sol is the origin industrial base. Kepler-62 is one distant destination of a late-21st-century expansion programme.
+**CANON.** Sol is the origin industrial base. Kepler-62 is one distant branch of the same late-21st-century expansion programme. Kepler-62 is not "the civilisation" and does not replace Sol. Owner: [`probes.md`](probes.md) §1, [`chronology.md`](chronology.md) §5.
 
-**CANON.** The Kepler swarm is one branch. Local Solar System branches run in parallel while original Kepler probes are still in transit.
+**CANON.** Local Solar System branches run in parallel while original Kepler probes are still in transit. Sol keeps changing after a departure-cutoff archive stops accumulating Earth experience. Owner: [`chronology.md`](chronology.md) §5.
 
 **CANON.** Do not light a Kepler still with a G2 disk. 1 S☉ panel grades on a 0.020 S☉ orbit are not "operational".
 
-**CANON.** Sol launch stills may show Earth. Do not caption them as Kepler-62. Do not light a Kepler system still as Earth departure.
+**CANON.** Sol launch stills show Earth. Do not caption them as Kepler-62. Do not light a Kepler system still as Earth departure. Launch look-dev: [`probes.md`](probes.md) §11.
 
-**CANON.** Sol-built hardware used at Kepler needs a label on the still or the brief. Unlabeled mix fails.
+**CANON.** Sol-built hardware used at Kepler needs a label on the still or the brief. Unlabeled mix fails. Map: [`production.md`](production.md) §7.
 
-**CANON.** Sol keeps changing after the departure-cutoff archives stop accumulating Earth experience.
+**CANON.** Settlement at Kepler-62 ultimately occurs. The capture mechanism stays OPEN. Owner: [`probes.md`](probes.md) §9.
 
-**CANON.** Settlement at Kepler-62 ultimately occurs. How a 0.2c coast was captured remains OPEN. See [`probes.md`](probes.md) §9.
-
-**OPEN.** Whether Sol keeps a live command loop, or only delayed archive and confirmation traffic.
+**OPEN.** Whether Sol maintains a live command loop or only delayed archive and confirmation traffic. Owner: [`chronology.md`](chronology.md) §5.
 
 ## 4. Transit
 
+Index only. Architecture, sail family, and boost figures: [`probes.md`](probes.md) §7–10. Derivation: [`appendix-launch.md`](appendix-launch.md). Clocks, coast, passage band: [`chronology.md`](chronology.md).
+
 **CANON.** Distance Sol → Kepler-62 is 982 ly.
 
-**CANON.** Peak speed of the original Kepler hop is 0.2c. After the laser boost that is also the coast speed.
+**CANON.** 0.2c is the peak speed and the coast speed of the original Kepler hop after the laser boost. It is not automatically the trip-average speed. 982 yr is light travel, not ship time.
 
-**CANON.** 0.2c is not automatically the trip-average speed. 982 yr is light-travel, not ship time.
+**CANON.** Directed laser light provides the acceleration to approximately 0.2c. Ordinary sunlight is not that beam. Solar wind is not the interstellar accelerator. Solar collectors are an allowed power source for the launch infrastructure. Owner: [`probes.md`](probes.md) §7.
 
-**CANON.** Default architecture: dispatch, laser-driven lightsail acceleration, long unpowered coast, then an unresolved destination braking and capture phase. Detail: [`probes.md`](probes.md) §7–9. Launch-era stills of dispatch: §13.4–13.7.
+**CANON.** The 0.001 g bang-coast-bang default (~198 yr burns, ~5 106 yr total, 7191–7201 A.D. arrival) is obsolete history. Owner: [`probes.md`](probes.md) §10.
 
-**CANON.** Interstellar acceleration to ~0.2c is directed laser light, not ordinary sunlight and not the solar wind. Solar collectors may power the launch plant. Direct sunlight can support local manoeuvres.
+**INFERENCE.** Index of [`appendix-launch.md`](appendix-launch.md): boost about 226 s in the launch frame, 225 s onboard, 202 s of transmitter emission, 7.31 million km ≈ 0.049 AU, initial acceleration ≈ 34 000 g₀.
 
-**CANON.** Endpoints in the coast model are treated as stationary. No detailed gravitational or trajectory model. Passage dates are historical rounding, not capture days.
+**INFERENCE.** Index of [`chronology.md`](chronology.md) §4: 982 ly / 0.2c is about 4 910 yr external coast and about 4 811 yr onboard. Unbraked passage of 2085–2095 launches is 6995–7005 A.D. Passage is not capture and not settlement.
 
-**INFERENCE.** Adopted sail family, 10 GW/m², ideal reflector: boost lasts 226 s in the launch frame, covers 7.31 million km ≈ 0.049 AU, starts at ≈ 34 000 g. Onboard proper time 225 s. Transmitter emission 202 s. Integrals: [`appendix-launch.md`](appendix-launch.md).
+**INFERENCE.** Index of [`chronology.md`](chronology.md) §2: idealised stationary endpoints, one-way light travel 982 yr, message/reply round trip 1 964 yr.
 
-**INFERENCE.** 982 ly at 0.2c is 4 910 external years of coast, about 4 811 years onboard. γ(0.2c) ≈ 1.021.
+**OPEN.** Destination braking and capture. Owner: [`probes.md`](probes.md) §9.
 
-**INFERENCE.** Light-travel is 982 yr one way, 1 964 yr round trip, for idealised stationary endpoints. No live conversation.
+**OPEN.** Pointing, beam stability, sail control, losses, aperture margin, and whether the sail remains attached after boost. Owner: [`probes.md`](probes.md) §2 and §9.
 
-**CANON.** Reader-facing dates are Gregorian A.D. in a declared Sol-barycentric frame. Hardware proper time and each mind's experienced time are logged separately. See [`chronology.md`](chronology.md).
-
-**CANON.** Relativity does not give a shared "now" across Sol and Kepler. Dormancy is not time dilation.
-
-**CANON.** The 0.001 g bang-coast-bang default (~198 yr burns, ~5 106 yr total, 7191–7201 A.D. arrival) is obsolete. Keep it only as a labelled historical note.
-
-**OPEN.** Destination braking and capture.
-
-**OPEN.** Pointing, beam stability, sail control, losses, and aperture margin of the launch beam.
-
-**OPEN.** Whether the sail remains attached after the boost.
-
-**OPEN.** What hardware keeps the clocks.
+**OPEN.** Clock hardware. Owner: [`chronology.md`](chronology.md) §1.
 
 ## 5. Payload class
 
-**CANON.** Allowed on the hop: 1–10 g probe bodies, sail systems as extra mass, dormant WBE and ASI states, picobot manufacturing seeds, digital archives. Detail: [`probes.md`](probes.md).
+Index only. Owner: [`probes.md`](probes.md).
 
-**CANON.** Rejected as the hop design: living crew, generation ship, named passengers on the hull.
+**CANON.** Probe-body mass is approximately 1–10 g. The sail system is additional mass. The hop rejects living crew, generation ships, and named passengers on the hull. A gram-class body does not run a civilisation because it stores one.
 
-**CANON.** Default stored minds are cargo. Low-resource systems handle ordinary flight. Greater intelligence needs power, hardware, and activation authority.
+**OPEN.** Whether gram-probes remain a live mesh after arrival or become feedstock. Owner: [`probes.md`](probes.md) §3.
 
-**CANON.** A gram-class body does not run a civilisation.
+**OPEN.** Exact storage capacity, computing performance, replication rates, and component mass allocations. Owner: [`probes.md`](probes.md) §2 and §4.
 
-**OPEN.** Whether any WBE instantiate in meat at destination.
-
-**OPEN.** Whether gram-probes remain a live mesh after arrival or become feedstock.
-
-**OPEN.** Exact storage capacity, computing performance, replication rates, and component mass allocations.
+**OPEN.** Whether any WBE is instantiated in biological flesh at Kepler-62. Owner: [`nullseed.md`](nullseed.md).
 
 ## 6. Star (work figures)
 
+This section owns the stellar work figures.
+
 **CANON.** Target star is Kepler-62. Constellation Lyra. Distance 982 ly.
 
-**CANON.** Work figures: **0.76 M☉**, **0.26 L☉**. Production uses these.
+**CANON.** Work figures: **0.76 M☉**, **0.26 L☉**. Production uses these even where catalog values differ.
 
 **CANON.** Look-dev spectral class: K2. Disk is orange.
 
-**INFERENCE.** Catalogs often quote ~0.69 M☉, ~0.21 L☉, Teff ~4925 K, R★ ~0.64 R☉, age ~7 Gyr. Cite those as catalog. They do not replace the work figures.
+**INFERENCE.** Catalogs often quote ~0.69 M☉, ~0.21 L☉, Teff ~4925 K, R★ ~0.64 R☉, age ~7 Gyr. Cite those as catalog. They do not replace the work figures. Parent sources: published Kepler-62 catalog values, not a replacement model.
 
 **OPEN.** Exact catalog reconciliation against 0.76 M☉ / 0.26 L☉.
 
 ## 7. Planets
 
-**CANON.** Five published transiting planets: Kepler-62b, c, d, e, f. None of them is the large key-art body.
+This section owns the planet list.
+
+**CANON.** Five published transiting planets: Kepler-62b, c, d, e, and f. The large key-art body is none of them.
 
 **CANON.** Inner to outer, from the discovery literature:
 
@@ -122,7 +114,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** All five orbit well inside 3.6 AU.
 
-**CANON.** Do not imply that life has been detected on e or f.
+**CANON.** Do not imply detected life on Kepler-62e or Kepler-62f.
 
 **OPEN.** Whether e / f are mined, ignored, or reserved.
 
@@ -130,19 +122,27 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ## 8. Swarm geometry
 
-**CANON.** Independently orbiting cells. No rigid shell. No ringworld. No solid Dyson sphere. Independent orbits are not an arbitrary rigid lattice.
+This section owns swarm geometry, flux, and the passive-exterior temperature figure.
+
+**CANON.** The Kepler-62 stellar-era swarm is a field of independently orbiting cells, not a rigid shell, ringworld, solid Dyson sphere, or arbitrary welded lattice.
 
 **CANON.** Outer radius **R = 3.6 AU**. Habitat-kit and the stills treat that as the edge.
 
-**INFERENCE.** Flux at 3.6 AU: F/F⊕ ≈ L/r² = 0.26 / 3.6² ≈ **0.020 S☉**. With the IAU nominal solar constant 1361 W/m² that is ≈ **27.3 W/m²**.
+**INFERENCE.** Parent model: inverse-square flux from the adopted 0.26 L☉ at 3.6 AU, using the IAU nominal solar constant 1361 W/m². F/F⊕ ≈ L/r² = 0.26 / 3.6² ≈ **0.020 S☉**, ≈ **27.3 W/m²**.
 
-**CANON.** ≈ 27.3 W/m² is dim relative to Earth noon. It is not "virtually invisible." Exposed surfaces still take starlight. Work lights still carry close-up key.
+**CANON.** 27.3 W/m² is dim relative to Earth noon, not a black void. Exposed surfaces still take starlight. Work lights still carry close-up key.
 
-**CANON.** Teq work figure at the edge: **~120 K**. It is a specified look-dev figure that requires thermal assumptions. It is not a universal temperature for all machinery.
+**CANON.** Passive-exterior equilibrium work figure at the edge is approximately **120 K** under stated assumptions. It is not the temperature of every active machine.
 
-**CANON.** Active computing temperatures and radiators are separate from passive exterior equilibrium.
+**CANON.** Active computing temperatures and radiator temperatures are separate from that passive exterior.
 
-**INFERENCE.** Bare 4π, A = 0 absorber at 0.020 S☉ sits near ~105 K. A sun-facing plate sits warmer. 120 K sits between those under the adopted assumptions.
+**INFERENCE.** Parent model: bare 4π, A = 0 absorber at 0.020 S☉. That case sits near ~105 K. A sun-facing plate sits warmer. 120 K sits between those under the adopted assumptions.
+
+**CANON.** Cells specialise. Energy, manufacturing, computation, archives, embodied habitation, and preservation are distinct jobs. The featured Habitat-kit cell is one relic computing / archive habitat, not the swarm.
+
+**CANON.** The post-capture order of operations, including the lock that a surviving archive is not yet a society, is the provisional row in [`chronology.md`](chronology.md) §5. This section does not restate it.
+
+**CANON.** The Nullseed is a later terminal-class structure descended from this industry. It is not this 3.6 AU cell field. Owner: [`nullseed.md`](nullseed.md).
 
 **OPEN.** Waste-heat, view factor, and coating under the 120 K figure.
 
@@ -150,11 +150,9 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** One Habitat-kit build is one cell.
 
-**CANON.** Cells specialise. Energy, manufacturing, computation, archives, embodied habitation, and preservation practice are different jobs. The featured Habitat-kit cell is one relic computing / archive habitat, not the swarm.
-
-**CANON.** The Nullseed is a later terminal-class structure descended from this industry. It is not this 3.6 AU cell field and not a solid shell. [`nullseed.md`](nullseed.md).
-
 ## 9. Mass budget
+
+This section owns the plate-mass examples.
 
 **CANON.** Plate-only examples at the implied ~2 g cm⁻³ density. They are not the total built swarm mass.
 
@@ -162,7 +160,7 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** **12 M⊕ is a 1 m plate at 1%** of the same sphere. The old 12 M⊕ @ 1 mm figure swapped millimeters and meters. Delete it.
 
-**INFERENCE.** Sphere area 4πR² at 3.6 AU ≈ 3.64 × 10²⁴ m². The two rows differ by 1000× thickness, so 1000× mass.
+**INFERENCE.** Parent model: sphere area 4πR² at 3.6 AU and constant areal density. Area ≈ 3.64 × 10²⁴ m². The 1 mm and 1 m rows differ by 1000× thickness and therefore 1000× mass under the same coverage and density assumptions.
 
 **INFERENCE.** Mean density implied by 0.012 M⊕ @ 1 mm @ 1% is ~2 g cm⁻³. That is not a material spec.
 
@@ -170,17 +168,17 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **OPEN.** Alloy / ice / slag mix.
 
-**INFERENCE.** 1 mm at 1% is cheap in planetary mass. 1 m at 1% is a small planet taken apart. Drawing both on one budget fails.
+**INFERENCE.** Parent model: the two plate rows above. 1 mm at 1% is a small fraction of an Earth mass. 1 m at 1% is a small planet taken apart. Drawing both on one budget fails.
 
 ## 10. One cell
 
-**CANON.** Habitat-kit may build one independently orbiting cell. Hard-surface. Industrial / brutalist. Unit-canon sockets.
+**CANON.** Habitat-kit builds one independently orbiting cell. Hard-surface. Industrial / brutalist. Unit-canon sockets.
 
 **CANON.** Scale is not owned here. Grid 1.0 m, deck 3.0 m, airlock 1.0 m, human 1.80 m live in [Unit-canon](https://github.com/Plygonality/Unit-canon).
 
 **CANON.** Habitat-kit actors already named: airlock, deck bay, truss, hatch. No second actor set in this bible.
 
-**CANON.** Lineage shows in joints, hatches, service modules, and repair traces. See [`lineages.md`](lineages.md). Metre stays Unit-canon.
+**CANON.** Lineage shows in joints, hatches, service modules, and repair traces. Owner: [`lineages.md`](lineages.md). Metre stays Unit-canon.
 
 **OPEN.** Interior program beyond those actors and the featured-cell relic role in [`featured-cell.md`](featured-cell.md).
 
@@ -192,35 +190,31 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 ## 11. Habitat Cuts
 
-**CANON.** Three states. Time-slice epoch IDs. Habitat-kit does not fork Time-slice. System-wide history does not add epoch IDs.
+Index only. Owner of the three states and the featured-cell history: [`featured-cell.md`](featured-cell.md). Socket map: [`production.md`](production.md) §2.
 
-| Cut | Time-slice id | Reads as |
-| --- | --- | --- |
-| construction | `construction` | Scaffold, incomplete, work lights, arcs. Almost no oxidation. |
-| operational | `operational` | Closed hull. Structured lights. Wear. Scaffold gone. |
-| relic | `relic` | Empty former habitation, protected archive plant, mixed-period repairs, leftover signal. Scaffold gone. |
+**CANON.** Three states only: `construction`, `operational`, `relic`. Same hull. System-wide narrative history does not add Time-slice epoch IDs.
 
-**CANON.** Same hull. Epoch is a parameter. It does not redesign the cell.
+**CANON.** One relic cell is not a dead swarm.
 
-**CANON.** Featured-cell social history and the unresolved physical failure are specified in [`featured-cell.md`](featured-cell.md). One relic cell is not a dead swarm.
+**OPEN.** Exact wording of the leftover restoration / preservation request. Owner: [`featured-cell.md`](featured-cell.md).
 
-**OPEN.** Exact wording of the leftover restoration / preservation request.
+**OPEN.** The physical failure sequence of the featured cell. Owner: [`featured-cell.md`](featured-cell.md).
 
 **OPEN.** Relic failure modes of cells other than the featured Habitat-kit cell.
 
-**OPEN.** The physical failure sequence of the featured cell (breaches, widespread deterioration).
-
 ## 12. Key-art body
+
+This section owns the large-body rule.
 
 **CANON.** The large body in the Kepler system stills is **not** Kepler-62b, c, d, e, or f.
 
 **CANON.** In those Kepler frames the silhouette is irregular, non-spherical, with blocky / cutout edges. It is not a circular planet disk. Earth in the launch stills is Earth. It is not this body.
 
-**CANON.** Do not move that silhouette onto planets b–f. Do not label it 62e or 62f so the still "reads".
+**CANON.** Do not move that silhouette onto planets b–f. Do not label it 62e or 62f so the still "reads". Do not assign a name.
 
 ![01-eclipse: irregular key-art body against Kepler-62](../stills/01-eclipse.jpg)
 
-*The large body. Irregular, non-spherical, blocky / cutout edges. Not a circular planet disk. Not Kepler-62b–f. Identity and name stay OPEN.*
+**CANON.** The large body in that frame is irregular, non-spherical, with blocky / cutout edges. It is not a circular planet disk and not Kepler-62b–f.
 
 **OPEN.** What the body is: constructed, captured, or a non-planet natural.
 
@@ -230,120 +224,84 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 
 **CANON.** Key-art stills sit in [`../stills/`](../stills/). Two families. Habitat-kit does not have to match them. Habitat Cuts are a different set.
 
-**CANON.** Kepler system: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`. Destination, after settlement. K2 disk. Large-body rule as in §12.
+**CANON.** Kepler system: `01-eclipse.jpg`, `02-lattice.jpg`, `03-inward.jpg`. Destination, after settlement. K2 disk. Large-body rule as in §12. Captions in this section are the home for those three frames.
 
-**CANON.** Sol launch: `04-boom.jpg`, `05-cross.jpg`, `06-face.jpg`, `07-fleet.jpg`. Original probes leaving Earth in the 2085–2095 A.D. window. Detail: [`probes.md`](probes.md) §11.
+**CANON.** Sol launch: `04-boom.jpg`, `05-cross.jpg`, `06-face.jpg`, `07-fleet.jpg`. Original probes leaving Earth in the 2085–2095 A.D. window. Look-dev owner: [`probes.md`](probes.md) §11. This section does not restate that record.
 
 ### 13.1 Eclipse. `stills/01-eclipse.jpg`
 
 ![Kepler-62 with an irregular silhouette on the disk and a cell veil](../stills/01-eclipse.jpg)
 
-*Wide. Star in the middle. Kepler-62 as an orange-yellow K disk, granulation and prominences. Large irregular body in silhouette on the disk. Planets b–f are out. Swarm as stacked veils of independently orbiting dark cells, not a rigid lattice. Radial traces can cut the veil. Key is the star. Cell count and fill stay OPEN.*
-
-**CANON.** Frame as captioned. Large body rule as in §12.
+**CANON.** Wide frame. Star in the middle. Kepler-62 reads as an orange-yellow K disk, with granulation and prominences. The large irregular body is in silhouette on the disk. Planets b–f are out of this reading. The swarm reads as stacked veils of independently orbiting dark cells, not a rigid lattice. Radial traces are allowed across the veil. Key light is the star. Cell count and fill stay OPEN.
 
 ### 13.2 Lattice. `stills/02-lattice.jpg`
 
 ![Rows of dark geometric cells receding, K-disk in the upper right](../stills/02-lattice.jpg)
 
-*Wide. Star in a corner. K disk. Distant cells as repeated sharp silhouettes (arrowhead, diamond, triangular). Apparent rows are a camera effect on independent orbits, not a rigid lattice. Faint red traces, red-brown haze are fine. Small circular disk may sit on the limb. That disk is not the large body. Planet letter stays OPEN. Marks are distant silhouettes.*
+**CANON.** Wide frame. Star in a corner. K disk. Distant cells read as repeated sharp silhouettes (arrowhead, diamond, triangular). Apparent rows are a camera effect on independent orbits, not a rigid lattice. Faint red traces and red-brown haze are allowed. A small circular disk is allowed on the limb. That disk is not the large body. Marks are distant silhouettes. The filename "lattice" does not lock a rigid grid.
 
-**CANON.** Frame as captioned. The filename "lattice" does not lock a rigid grid.
+**OPEN.** Which of b–f, if any, is that circular transit disk.
 
 ### 13.3 Inward. `stills/03-inward.jpg`
 
 ![Looking inward: lattice on the disk, small circular transit, irregular body in the foreground](../stills/03-inward.jpg)
 
-*Camera already inside the swarm. Fine field of independent cells across the disk. Same class of irregular foreground body as 13.1. Small circular transit on the star is a different object. Do not pick a planet letter. This is not a Habitat Cut.*
-
-**CANON.** Frame as captioned.
-
-**CANON.** A small circular disk on the star may be a published planet. It is not the large key-art body.
-
-**OPEN.** Which of b–f, if any, is that circular transit disk.
+**CANON.** Camera already inside the swarm. Fine field of independent cells across the disk. Same class of irregular foreground body as §13.1. The small circular transit on the star is a different object. Do not pick a planet letter. This is not a Habitat Cut.
 
 **CANON.** These three Kepler frames do not lock cell count, plate thickness, or fill fraction.
 
-### 13.4 Boom. `stills/04-boom.jpg`
+### 13.4–13.7 Launch frames
 
-![Hub, chassis, and four spars of a lightsail probe, Earth faint in the background](../stills/04-boom.jpg)
+**CANON.** `04-boom`, `05-cross`, `06-face`, and `07-fleet` depict Sol departure in 2085–2095, not Kepler arrival. Diamond membrane, four spars, gram-class hub. Circular diameters in the adopted family are equivalent-area figures. Visible fleet count is camera selection, not batch size. Full record: [`probes.md`](probes.md) §11.
 
-*Close. Hub and chassis. Four long spars. Thin truss. Dark bays on the body are look-dev, not a mass-row change. Sail membrane may be out of key. Earth limb faint behind. 2085–2095 A.D. window, not a locked day.*
+**CANON.** Habitat Cut stills are unshot. States: [`featured-cell.md`](featured-cell.md). Unit-canon figure or airlock in frame for scale. Probe-kit crawler / drone / debris as instances only.
 
-**CANON.** Frame as captioned. Four-boom layout, gram-class hub, gossamer frame. Sol departure.
+**CANON.** Diamond and arrowhead marks in the Kepler key-art are system-scale silhouettes. Habitat-kit builds one industrial / brutalist cell at Unit-canon scale. Launch-era diamonds are gram-class sails at Sol.
 
-### 13.5 Cross. `stills/05-cross.jpg`
-
-![Edge-on lightsail as a thin bright cross against Earth's disk](../stills/05-cross.jpg)
-
-*Far. Edge-on. Membrane so thin it reads as a bright cross. Hub as a speck. Earth disk and atmosphere limb. An unlit face may sit as a dark diamond.*
-
-**CANON.** Frame as captioned. Edge-on thinness. Earth is the origin.
-
-### 13.6 Face. `stills/06-face.jpg`
-
-![Reflective diamond lightsail, square-on-point, four circular illumination marks](../stills/06-face.jpg)
-
-*Close. Reflective diamond membrane, square-on-point. Four spars. Hub at centre. Soft circular marks on the face are look-dev illumination. They do not lock beam count, wavelength, or aperture.*
-
-**CANON.** Frame as captioned. Diamond planform. Reflective face. Marks are look-dev.
-
-### 13.7 Fleet. `stills/07-fleet.jpg`
-
-![Several diamond lightsails as dark silhouettes against Earth's limb](../stills/07-fleet.jpg)
-
-*Wide. Earth's limb. Several diamond silhouettes at different distances. Nearest may show a bright hub. Visible count is camera selection. A batch is still of order 1 000.*
-
-**CANON.** Frame as captioned. Fleet as a visual class. Visible count is not batch size.
-
-**CANON.** Launch stills lock the 2085–2095 A.D. window. They do not lock a day inside it. They do not lock sail metres, boom length, membrane thickness, or whether the sail stays attached after the boost.
-
-**CANON.** The adopted family table quotes circular diameters as equivalent-area figures. Diamond look-dev does not replace those rows.
-
-**CANON. Habitat Cut stills (unshot).** Construction, operational, relic of one close-up cell. States as in §11 and [`featured-cell.md`](featured-cell.md). Unit-canon figure or airlock in frame for scale. Probe-kit crawler / drone / debris as instances only. Same camera across the three cuts if you are proving Time-slice.
-
-**CANON.** Diamond and arrowhead marks in the Kepler key-art are system-scale silhouettes. Habitat-kit builds one industrial / brutalist cell at Unit-canon scale.
-
-**CANON.** Launch-era diamonds are gram-class sails at Sol. They are not Kepler cell silhouettes and not the Habitat-kit mesh.
-
-**INFERENCE.** The three Kepler files show system scale and the large-body rule. The four launch files show Sol dispatch of the original probes. Habitat Cuts show the cell Habitat-kit is allowed to build.
+**INFERENCE.** The three Kepler files show system scale and the large-body rule. The four launch files show Sol dispatch. Habitat Cuts show the cell Habitat-kit is allowed to build. Parent: the still families named above.
 
 ## 14. Failure modes
 
-**CANON.** Reject a brief or a still that does any of these:
+**CANON.** Reject a brief or a still that does any of these. The detail file owns the underlying claim.
 
 - Treats 0.2c as the trip-average speed, or 982 yr as ship time.
 - Denies that 0.2c is the coast speed of the original Kepler hop after boost.
 - Restores 0.001 g bang-coast-bang, ~198 yr burns, or 7191–7201 A.D. as the default arrival.
 - Calls the interstellar boost a solar-wind sail or ordinary sunlight.
-- Silently installs a Kepler braking laser or claims Kepler sunlight captures 0.2c.
-- Sends meat crews as the hop design.
-- Runs a civilisation on a gram-class probe.
-- Calls a few-picometre machine a complete robot under picotechnology.
+- Silently installs a destination brake, including a Kepler braking laser, or claims Kepler sunlight captures 0.2c.
+- Sends living crew, a generation ship, or named passengers as the hop design.
+- Runs a civilisation on a gram-class probe, or carries wet living stock as the interstellar continuity payload.
+- Calls a few-picometre machine a complete robot under picotechnology, or assumes subatomic machines on the 2085–2095 probes.
+- Restores the 600 / 300 / 100 million local / nearby / distant split.
 - Treats 27.3 W/m² as a black void, or 120 K as every machine's temperature.
-- Restores 12 M⊕ as the 1 mm swarm, or treats the plate examples as total swarm mass.
+- Restores 12 M⊕ as the 1 mm plate, or treats the plate examples as total swarm mass.
 - Lights a Kepler cell as Sol / 1 S☉.
-- Labels the large key-art body as Kepler-62b–f.
+- Labels the large key-art body as Kepler-62b–f, or assigns that body a name.
+- Assigns a planet letter to the small circular transit disk.
 - Captions a launch still as Kepler-62, or a Kepler system still as Earth departure.
 - Treats launch-era diamond sails as Kepler cell silhouettes, or the reverse.
 - Reads face marks on `06-face` as a locked beam architecture.
 - Reads a fleet frame's visible count as the batch size.
 - Treats diamond look-dev as replacing the circular-equivalent diameter table.
 - Treats the distant diamond / arrowhead marks as the Habitat-kit mesh.
-- Builds the whole swarm inside Habitat-kit, or a rigid lattice of cells.
+- Builds the whole swarm inside Habitat-kit, or a rigid lattice, solid Dyson shell, or ringworld of cells.
+- Treats architectural lineages as ethnic groups, nations, or political allegiance.
+- Treats preservation practices as four named factions.
 - Treats the featured relic cell as proof the swarm is dead.
-- Defaults relic damage to an evil AI, a universal war, or forgotten magic.
+- Defaults relic damage to an evil AI, a universal war, forgotten magic, or Nullseed mantle recycling.
+- Writes exact wording for the featured-cell restoration / preservation request.
 - Implies detected life on Kepler-62e or 62f.
-- Invents named protagonists or stamps founder names on a Habitat Cut.
-- Fills an OPEN item with a church or a government.
+- Invents named protagonists, founders, churches, governments, corporations, or factions to close an OPEN item.
+- Fills an OPEN item, or instances a PROPOSED claim as canon.
 - Copies Unit-canon lengths into this repo as if owned here.
-- Dates the Nullseed with a Gregorian year, or treats it as the 3.6 AU cell swarm, the featured relic, or the large key-art body.
-- Draws the Nullseed as a solid Dyson sphere, Matrioshka shell, Bishop ring, O'Neill cylinder, or rigid lattice.
+- Dates the Nullseed with a Gregorian year, or treats it as the 3.6 AU cell swarm, the featured relic, the large key-art body, or a gram-class probe.
+- Draws the Nullseed as a solid Dyson sphere, Matrioshka shell, Bishop ring, O'Neill cylinder, rigid lattice, or giant probe.
 - Treats Nullseed hibernation as relativistic time dilation.
 - Treats topology-preserving vacuum bifurcation as established physics, or as hardware on the 2085–2095 probes.
+- Restores an older three-layer Nullseed draft over the five-subsystem architecture.
 - Treats the Planck length as a measured minimum length, or as a Nullseed memory cell.
 - Treats a reconstructed mind as proof of subjective continuity.
-- Relabels `01`–`07` as a Nullseed still.
+- Relabels `01`–`07` as a Nullseed still, or lets a still override a tagged claim.
 
 ## 15. Non-goals
 
@@ -354,61 +312,64 @@ Tagged source. Tags: [`../schema/status-tags.md`](../schema/status-tags.md). OPE
 - Replace Unit-canon, Habitat-kit, Time-slice, Probe-kit, Collection-linter, or Blend-ci.
 - Close the OPEN list.
 - Specify a language, flag, or government.
+- Write the later Fandom lore vault, or narrate `bible/` in the Nullseed's voice.
 
 ## 16. Programme
 
-**CANON.** 2085–2095 A.D.: about one billion original autonomous Von Neumann probes, batches of thousands, toward Solar System sites, nearby stars, and distant stars including Kepler-62. Detail: [`probes.md`](probes.md) §1. Launch-era stills: §13.4–13.7.
+Index only. Payload and batch semantics: [`probes.md`](probes.md) §1. Dated rows: [`chronology.md`](chronology.md) §5.
 
-**CANON.** Distinguish original probes from later descendants.
+**CANON.** 2085–2095 A.D.: about one billion original autonomous probes, in batches of order 1 000, toward Solar System sites, nearby stars, and distant stars including Kepler-62. The billion count is the original dispatched-unit count.
 
-**CANON.** A batch is one dispatch event of order 1 000 probes. Multiple batches may share a target.
+**CANON.** The old 600 / 300 / 100 million split is not canon.
 
-**CANON.** Spatial redundancy and independently developed software / manufacturing variants are required. A billion identical probes fail as one.
-
-**CANON.** Exact local / nearby / distant shares are OPEN. The 600 / 300 / 100 million split is not canon.
-
-**OPEN.** How many unique stellar targets the distant class uses.
+**OPEN.** Exact local / nearby / distant shares, and how many unique stellar targets the distant class uses. Owner: [`probes.md`](probes.md) §1.
 
 ## 17. Chronology
 
-**CANON.** Three clocks and three confidence bands as in [`chronology.md`](chronology.md).
+Index only. Owner: [`chronology.md`](chronology.md).
 
-**INFERENCE.** Unbraked passage of 2085–2095 launches around 6995–7005 A.D. Not capture. Not settlement.
+**CANON.** Three clocks: Gregorian A.D. in a declared Sol-barycentric frame with ICRS-class axes; hardware proper time; experienced age while a mind is executing. Dormancy is not relativistic time dilation. Relativity provides no shared "now" between Sol and Kepler-62.
 
-**OPEN.** Whether later faster missions or nearer-system descendants reach Kepler-62 first.
+**INFERENCE.** Unbraked passage of 2085–2095 launches is 6995–7005 A.D. under the locked coast model. Not capture. Not settlement.
 
-**CANON.** Later than the provisional stellar-era rows, the Nullseed uses cosmological epoch labels. No Gregorian construction date. [`nullseed.md`](nullseed.md). Clocks: [`chronology.md`](chronology.md) §7.
+**OPEN.** Whether later faster missions or nearer-system descendants reach Kepler-62 first. Owner: [`chronology.md`](chronology.md) §6.
+
+**CANON.** Nullseed external chronology uses cosmological epoch labels. No Gregorian construction date. Owner: [`nullseed.md`](nullseed.md). Epoch-dating rule: [`chronology.md`](chronology.md) §7.
 
 ## 18. Picotechnology and archive
 
-**CANON.** Definitions and limits in [`probes.md`](probes.md) §4–6.
+Index only. Owner: [`probes.md`](probes.md) §4–6.
 
-**OPEN.** Whether subatomic machines exist beyond picometre-precision assemblies.
+**CANON.** Picotechnology means picometre-precision fabrication and control by larger atomic and molecular assemblies. The abiogenesis premise starts biological systems from nonliving feedstocks and validated instructions. The hop carries instructions and manufacturing systems, not wet living stock.
 
-**OPEN.** Survival design that fits the 1–10 g body.
+**OPEN.** Whether subatomic machines exist beyond picometre-precision assemblies. Owner: [`probes.md`](probes.md) §5.
+
+**OPEN.** Survival design that fits the 1–10 g body. Owner: [`probes.md`](probes.md) §9.
 
 ## 19. Lineages
 
-**CANON.** Launch-decade versions become architectural ancestry. [`lineages.md`](lineages.md).
+**CANON.** Launch-decade versions become architectural ancestry. They are not ethnic groups and not political allegiance. Owner: [`lineages.md`](lineages.md).
 
 ## 20. Preservation
 
-**CANON.** The archive supports competing reconstruction practices, not four automatic factions. [`preservation.md`](preservation.md).
+**CANON.** The departure archive supports multiple preservation practices. They are not four automatic factions. Owner: [`preservation.md`](preservation.md).
 
 ## 21. Featured relic
 
-**CANON.** Social history in [`featured-cell.md`](featured-cell.md). Physical failure sequence remains OPEN.
+**CANON.** Locked social history and an unresolved physical failure sequence. Owner: [`featured-cell.md`](featured-cell.md).
 
 ## 22. Nullseed
 
-**CANON.** The Nullseed is a terminal-class evolutionary megastructure of the Stapledon programme, specified in [`nullseed.md`](nullseed.md). It is later than the stellar-era Kepler-62 swarm. It is not one Habitat-kit cell, not a rigid shell, and not the large key-art body.
+Index only. Owner: [`nullseed.md`](nullseed.md).
 
-**CANON.** Its function is to preserve and propagate conscious civilisation across cosmological epochs by compressing the active substrate, conserving free energy, and transferring a seed through a fictional transition once the parent universe can no longer pay for conscious runs.
+**CANON.** The Nullseed is a much later terminal-class evolutionary megastructure descended from the Kepler-62 stellar-era industry. It is not the 3.6 AU swarm, not the featured relic cell, not the large key-art body, and not a gram-class probe.
 
-**CANON.** Five subsystems: Harvest Mantle (expendable outer industry, descended from the probe lineage), Epoch Lattice (nested, partially disconnected layers for successive regimes), Continuity Weave (redundant mind records, fidelity and consent, no settled theory of subjective continuity), Moving Present (authorised runs separated by lengthening dormancy), Causal Seed (the final transfer).
+**CANON.** Five subsystems: Harvest Mantle, Epoch Lattice, Continuity Weave, Moving Present, Causal Seed. The parent-universe strategy is progressive substrate compression, free-energy conservation, reduction of powered extent, archival preservation, and eventual physical-domain independence.
 
-**CANON.** External time for these phases is a cosmological epoch label. No construction year is assigned. The three clocks in [`chronology.md`](chronology.md) still apply. Dormancy is not time dilation.
+**CANON.** External time uses cosmological epoch labels: Stelliferous, Degenerate, Black Hole, and Dark. No Gregorian construction year. Hibernation is dormancy under the three clocks, not time dilation.
 
-**CANON.** Topology-preserving vacuum bifurcation is fictional setting physics, inspired by false-vacuum and baby-universe discussions and not supplied by them. The crossing cargo is the selected archive, a reconstruction substrate, and the activation machinery. The mantle does not cross. The far-side object is a compact autonomous seed in the functional sense of the original Von Neumann probes. It is not a 1–10 g lightsail.
+**CANON.** Topology-preserving vacuum bifurcation is fictional setting physics for the final transition only. It is not established science and not hardware on the 2085–2095 probes.
 
-**CANON.** No still of the Nullseed is in [`../stills/`](../stills/). Look: dark asymmetrical segmented helices around a shrinking computational core, radial radiators, sparse non-thermal violet markers, infrared waste heat. Late form is almost inactive. Rejected lookalikes are listed in [`nullseed.md`](nullseed.md).
+**CANON.** Visual family: dark central computational volume, asymmetrical segmented helices, separate orbital layers, distributed computational filaments, radial thermal infrastructure, large radiators, sparse non-thermal violet markers. No Nullseed still is stored in this repo.
+
+**OPEN.** Whether any WBE is instantiated in biological flesh at Kepler-62. How many branches ever build a Nullseed. Which batch, founder, government, or political institution first adopts it. Owner: [`nullseed.md`](nullseed.md). All three stay unanswered.

@@ -4,15 +4,21 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 ## 1. Origin programme
 
+**CANON.** Sol is the origin industrial base. Kepler-62 is one distant branch of the same late-21st-century expansion programme. Kepler-62 is not "the civilisation" and does not replace Sol as the programme origin.
+
 **CANON.** Between approximately 2085 and 2095 A.D., humanity and its digital descendants launch around one billion original autonomous Von Neumann probes.
 
 **CANON.** They leave in batches of thousands toward Solar System sites (infrastructure and later habitation), nearby stellar systems, and more distant systems including Kepler-62.
 
-**CANON.** Several batches may share a destination. A batch is one dispatch event. It is not necessarily a unique star.
+**CANON.** A batch is one dispatch event of order 1 000 units. Several batches can share a destination. A batch is not synonymous with one unique star.
 
 **CANON.** The billion count is original dispatched units. It is not the later replica census.
 
-**CANON.** Exact shares among local, nearby, and distant targets are OPEN. The 600 / 300 / 100 million split used in bible 0.3.0 is not canon.
+**CANON.** The 600 / 300 / 100 million split used in bible 0.3.0 is not canon.
+
+**OPEN.** Exact local / nearby / distant shares. The withdrawn 600 / 300 / 100 million split does not answer this.
+
+**OPEN.** How many unique stellar targets the distant class uses.
 
 **CANON.** The programme is fiction. It becomes possible through accelerated fictional work on human whole-brain emulation, ASI, consensual integrations of human-derived minds and artificial intelligences, extremely compact manufacturing and storage, and abiogenesis / biological reconstruction. Those are setting premises, not forecasts.
 
@@ -36,7 +42,9 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** Low-resource systems handle ordinary operations. More demanding minds need suitable power, hardware, and activation authority.
 
-**CANON.** A 1–10 g body does not run a civilisation because it can store one.
+**CANON.** A gram-class body does not run a civilisation because it stores one.
+
+**OPEN.** Whether gram-probes remain a live mesh after arrival or become feedstock.
 
 **CANON.** Authorised activation consumes energy and is logged as experienced time.
 
@@ -46,7 +54,7 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** The archive does not literally contain unrecorded history or every microscopic state of Earth.
 
-**CANON.** 2085 launches freeze one cutoff. Later batches in the same decade, and later descendant launches, may carry revisions.
+**CANON.** Each probe archive is fixed to its departure cutoff. An 2085 departure does not accumulate later Earth experience. Later batches can carry later revisions. Sol continues changing after that cutoff. The dated sequence is in [`chronology.md`](chronology.md).
 
 **OPEN.** Usable capacity, bit-error model, computing performance, replication rates, and repair method.
 
@@ -56,7 +64,7 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** "Picobots" is the conventional name of those machines. Complete robots are not a few picometres wide.
 
-**CANON.** The technology requires energy, produces waste heat, and uses available matter. It cannot supply absent elements by ordinary chemical rearrangement. It depends on suitable feedstocks and staged manufacturing. It remains vulnerable to damage and common-mode failures.
+**CANON.** Picotechnology consumes energy, produces waste heat, uses available feedstocks, and does not chemically create absent elements. It depends on staged manufacturing. It remains vulnerable to damage and common-mode failures.
 
 **OPEN.** Whether an extra fictional-physics discovery adds subatomic machines. This bible does not assume it.
 
@@ -83,19 +91,17 @@ Authoritative payload, picotechnology, launch family, hop limits, and launch-era
 
 **CANON.** Interstellar acceleration to approximately 0.2c comes from directed laser light. Ordinary sunlight alone does not do that job.
 
-**CANON.** Solar collectors may supply the launch infrastructure’s energy. Call the hop a laser-driven lightsail or a solar-powered laser launch. Do not call the interstellar burn a solar-sail cruise.
+**CANON.** Solar collectors are an allowed power source for the launch infrastructure. Call the hop a laser-driven lightsail or a solar-powered laser launch. Do not call the interstellar burn a solar-sail cruise.
 
 **CANON.** Sails do not interact primarily with the solar wind.
 
-**CANON.** Direct sunlight can support suitable local manoeuvres.
+**CANON.** Direct sunlight is a power source for suitable local manoeuvres. It is not the interstellar accelerator to 0.2c.
 
-**CANON.** 0.2c is both the adopted maximum and the coast speed of the original Kepler hop. It is not the trip-average speed if braking later occurs. 982 yr is light-travel, not ship time.
+**CANON.** 0.2c is both the adopted peak speed and the coast speed of the original Kepler hop after boost. It is not automatically the trip-average speed, because destination capture is unresolved. 982 yr is light travel, not ship time.
 
 ## 8. Adopted sail family
 
-**CANON.** Adopted engineering targets inside the fiction, not demonstrated hardware.
-
-Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0.1 g/m²; sail-system mass equals probe-body mass; effective loading includes the membrane and its allocated deployment / support system; nominal initial beam intensity 10 GW/m²; ideal near-perfect reflection for the baseline; circular sail for quoted diameters (equivalent-area figures; look-dev planform is diamond, §11).
+**CANON.** Adopted engineering targets inside the fiction, not demonstrated hardware. Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0.1 g/m²; sail-system mass equals probe-body mass; effective loading includes the membrane and its allocated deployment and support system; nominal initial beam intensity 10 GW/m²; ideal near-perfect reflector baseline; circular sail for quoted diameters (equivalent-area figures; look-dev planform is diamond, §11).
 
 | Probe body | Sail area | Diameter | Sail-system mass | Total launch mass | Nominal beam power |
 | --- | --- | --- | --- | --- | --- |
@@ -107,7 +113,7 @@ Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0
 
 **INFERENCE.** Recalculated: \(A=m_\mathrm{sail}/\sigma\), \(d=2\sqrt{A/\pi}\), \(P=I_0 A\). Independent run of [`../calc/lightsail.py`](../calc/lightsail.py) matches the table.
 
-**INFERENCE.** Same \(P/m\) on every row. Boost to 0.2c: launch-frame duration 226 s; onboard proper time 225 s; transmitter emission 202 s; distance 7.31 million km ≈ 0.049 AU; initial acceleration ≈ 34 000 g. See [`appendix-launch.md`](appendix-launch.md).
+**INFERENCE.** Index of the adopted family under the force convention in [`appendix-launch.md`](appendix-launch.md). Same \(P/m\) on every row. Boost to 0.2c: launch-frame duration 226 s; onboard proper time 225 s; transmitter emission 202 s; distance 7.31 million km ≈ 0.049 AU; initial acceleration ≈ 34 000 g. The derivation owner is the appendix. The script is [`../calc/lightsail.py`](../calc/lightsail.py).
 
 **INFERENCE.** Lower beam intensity, different loading, or a different acceleration distance produce different designs.
 
@@ -143,25 +149,21 @@ Assumptions: probe body 1–10 g; effective deployed sail-system areal density 0
 
 **OPEN.** Braking and capture.
 
-**CANON.** A laser behind a receding outbound probe does not ordinarily stop it at Kepler-62.
+**CANON.** A launch laser behind the receding probe is not a destination brake.
 
 **CANON.** Ordinary Kepler-62 sunlight cannot capture a 0.2c probe.
 
 **CANON.** Do not install a destination braking array by implication.
 
-**CANON.** Settlement at Kepler-62 ultimately occurs. The mechanism that took original 0.2c probes from coast to bound orbits is an explicit engineering gap.
-
-Research directions, none of them canon: a later-built in-system beamer whose own origin is explained; magnetic or plasma drag; staged remnant-sail manoeuvres after some other first capture; slower precursor infrastructure whose own arrival is explained. Listing a direction does not adopt it.
+**CANON.** Settlement at Kepler-62 ultimately occurs. The mechanism that takes original 0.2c probes from coast to bound orbits is an explicit engineering gap. No braking mechanism is adopted here. The OPEN item above stays unanswered.
 
 ## 10. Obsolete 0.001 g model
 
-**CANON.** Bible 0.3.0 used constant ~0.001 g burns, ~198 yr per burn, ~5 106 yr total, and a 7191–7201 A.D. arrival band. That default is withdrawn.
-
-Keep those figures only as labelled history. Do not add the old 194- or 198-year braking burn unless a compatible braking system is specified and justified.
+**CANON.** Bible 0.3.0 used constant ~0.001 g burns, ~198 yr per burn, ~5 106 yr total, and a 7191–7201 A.D. arrival band. That default is withdrawn. Keep those figures only as labelled obsolete history. Do not restore the old braking burn as the current hop.
 
 ## 11. Launch-era look-dev
 
-Stills: [`../stills/04-boom.jpg`](../stills/04-boom.jpg), [`../stills/05-cross.jpg`](../stills/05-cross.jpg), [`../stills/06-face.jpg`](../stills/06-face.jpg), [`../stills/07-fleet.jpg`](../stills/07-fleet.jpg). Captions: [`wiki.md`](wiki.md) §13.4–13.7.
+Stills: [`../stills/04-boom.jpg`](../stills/04-boom.jpg), [`../stills/05-cross.jpg`](../stills/05-cross.jpg), [`../stills/06-face.jpg`](../stills/06-face.jpg), [`../stills/07-fleet.jpg`](../stills/07-fleet.jpg). Index: [`wiki.md`](wiki.md) §13.4–13.7.
 
 **CANON.** Those four frames depict original probes leaving Earth in the 2085–2095 A.D. window. They are Sol-departure stills. Earth is Earth.
 
@@ -175,7 +177,7 @@ Stills: [`../stills/04-boom.jpg`](../stills/04-boom.jpg), [`../stills/05-cross.j
 
 **CANON.** Marks on the reflective face are look-dev illumination. They do not lock beam count, wavelength, aperture, or pointing. Those stay OPEN as in §9.
 
-**CANON.** A fleet frame may show a handful of units. Visible count is camera selection. A batch is still of order 1 000.
+**CANON.** A fleet frame shows a handful of units. Visible count is camera selection, not batch size. A batch is still of order 1 000.
 
 **CANON.** Launch diamonds are gram-class sails at Sol. Kepler key-art diamonds are system-scale cell silhouettes. Do not swap the two.
 
@@ -183,16 +185,16 @@ Stills: [`../stills/04-boom.jpg`](../stills/04-boom.jpg), [`../stills/05-cross.j
 
 ![Hub, chassis, and four spars](../stills/04-boom.jpg)
 
-*`04-boom`. Close. Hub, chassis, four spars. Earth faint.*
+**CANON.** `04-boom`. Close. Hub, chassis, four spars. Earth faint.
 
 ![Edge-on cross against Earth](../stills/05-cross.jpg)
 
-*`05-cross`. Far. Edge-on cross on Earth's disk.*
+**CANON.** `05-cross`. Far. Edge-on cross on Earth's disk.
 
 ![Reflective diamond sail face](../stills/06-face.jpg)
 
-*`06-face`. Close. Reflective diamond face. Marks are look-dev.*
+**CANON.** `06-face`. Close. Reflective diamond face. Marks are look-dev.
 
 ![Fleet against Earth's limb](../stills/07-fleet.jpg)
 
-*`07-fleet`. Wide. Several diamonds on Earth's limb. Visible count is not batch size.*
+**CANON.** `07-fleet`. Wide. Several diamonds on Earth's limb. Visible count is not batch size.

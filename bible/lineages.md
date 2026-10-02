@@ -10,9 +10,9 @@ Architectural ancestry from the launch decade. Production mapping: [`production.
 
 **CANON.** At Kepler-62 those lineages influence structural proportions, connector standards, repair access, shielding arrangements, biological support systems, computational environments, and rules for activating or migrating stored minds.
 
-**CANON.** Lineages can cooperate and develop adapters. They are not permanently incapable of interoperability.
+**CANON.** Lineages cooperate and develop adapters.
 
-**CANON.** Hardware ancestry influences society. It does not determine personalities, ethnicity, or political allegiance.
+**CANON.** Hardware ancestry influences society. It does not determine personality, ethnicity, citizenship, ideology, or political allegiance.
 
 **CANON.** Metre and shared Unit-canon lengths stay shared. Differences are design choices, not a second unit system.
 
@@ -20,15 +20,13 @@ Architectural ancestry from the launch decade. Production mapping: [`production.
 
 ## Narrative use
 
-**CANON.** A habitat can need repairs from another lineage while the replacement computing environment requires a consequential migration decision for stored or running minds.
-
-That is an institutional conflict. It is not a fourth Time-slice epoch.
+**CANON.** A habitat that takes repairs from another lineage, while the replacement computing environment requires a consequential migration decision for stored or running minds, records an institutional conflict. That conflict is not a fourth Time-slice epoch.
 
 ## Visual use
 
 **CANON.** Express ancestry through recurring joints, hatch designs, service modules, and repair traces.
 
-**CANON.** Mixed-period repairs on the featured relic cell may show more than one lineage’s connectors on the same hull. See [`featured-cell.md`](featured-cell.md).
+**CANON.** Mixed-period repairs on the featured relic cell are compatible with more than one lineage’s connectors on the same hull. See [`featured-cell.md`](featured-cell.md).
 
 **CANON.** Distant Kepler key-art polygons are system-scale silhouettes. They are not a lineage-coded Habitat-kit mesh.
 

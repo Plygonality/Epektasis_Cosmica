@@ -76,4 +76,4 @@ Later terminal-class megastructure. Detail: [`../bible/nullseed.md`](../bible/nu
 
 ## Tags
 
-Keep CANON / INFERENCE / OPEN. Definitions: [`../schema/status-tags.md`](../schema/status-tags.md). Machine contract: [`../schema/constraints.schema.json`](../schema/constraints.schema.json).
+Keep CANON / INFERENCE / OPEN / PROPOSED. PROPOSED is staging only and does not close an OPEN item. Definitions: [`../schema/status-tags.md`](../schema/status-tags.md). Machine contract: [`../schema/constraints.schema.json`](../schema/constraints.schema.json).
