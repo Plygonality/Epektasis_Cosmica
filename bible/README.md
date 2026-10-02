@@ -4,7 +4,7 @@
 
 | File | Job |
 | --- | --- |
-| [`wiki.md`](wiki.md) | Numbered wiki. Tagged summaries. Index of the detail files. |
+| [`wiki.md`](wiki.md) | Compact tagged index. Detail files own the full record. Wiki owns star, planets, swarm geometry, plate-mass examples, key-art, and Kepler-system captions. |
 | [`probes.md`](probes.md) | Programme, payload, picotechnology, laser-sail family, hop limits, launch look-dev. |
 | [`chronology.md`](chronology.md) | Three clocks. Gregorian A.D. timeline. Passage vs capture. |
 | [`lineages.md`](lineages.md) | Batch lineages as architectural ancestry. |
@@ -37,9 +37,9 @@
 ## Conflict order
 
 1. [`../constraints/project-rules.json`](../constraints/project-rules.json) (readable: [`../constraints/project-rules.md`](../constraints/project-rules.md))
-2. Wiki / detail-file CANON
-3. Wiki / detail-file INFERENCE
+2. The tagged detail file that owns the claim
+3. [`wiki.md`](wiki.md) as index, where it is not itself the owner
 4. Production mapping
-5. OPEN stays unset
+5. OPEN stays unset. PROPOSED is staging and does not close an OPEN item.
 
 Unit-canon wins on length. This bible wins on world facts. Key-art caches: [`../stills/`](../stills/). The stills do not override tagged claims. Habitat Cuts are generated from Habitat-kit.

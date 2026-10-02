@@ -2,9 +2,9 @@
 
 Reference integrator: [`../calc/lightsail.py`](../calc/lightsail.py). Tagged engineering claims: [`probes.md`](probes.md).
 
-These numbers are an adopted fictional design family. They are not demonstrated hardware.
+**CANON.** These numbers are an adopted fictional design family. They are not demonstrated hardware.
 
-Starting points that do **not** validate the fictional membrane, 10 GW/m² loading, picotechnology, or destination capture:
+**CANON.** The external links below do not validate the fictional membrane, the 10 GW/m² loading, picotechnology, or destination capture.
 
 - NASA sail deployment (class of photon sails, not this hop): https://www.nasa.gov/centers-and-facilities/marshall/nasa-solar-sail-technology-passes-crucial-deployment-test/
 - Breakthrough Starshot (laser-sail concept class): https://breakthroughinitiatives.org/initiative/3
@@ -58,11 +58,11 @@ Transmitter emission duration for a source at the launch origin:
 t_\mathrm{em}=t-x/c
 \]
 
-A photon that arrives at \((t,x)\) was emitted at \(t-x/c\).
+**INFERENCE.** Parent model: a source at the launch origin and light-speed delay along the boost trajectory. A photon that arrives at \((t,x)\) was emitted at \(t-x/c\).
 
 ## Verified boost to 0.2c
 
-Same \(P/m\) on every row of the reference family. Independent Simpson integration and the proper-time closed form agree with [`../calc/lightsail.py`](../calc/lightsail.py).
+**INFERENCE.** Parent model: the force convention and integrals in this file, applied to the adopted sail family in [`probes.md`](probes.md) (equal \(P/m\), ideal near-perfect reflector, nominal initial intensity 10 GW/m²). Independent Simpson integration and the proper-time closed form agree with [`../calc/lightsail.py`](../calc/lightsail.py). Rounded work figures:
 
 | Quantity | Do not confuse with | Result |
 | --- | --- | --- |
@@ -75,12 +75,10 @@ Same \(P/m\) on every row of the reference family. Independent Simpson integrati
 | Nominal beam energy \(P\,t_\mathrm{em}\) | Kinetic energy; transmitter wall-plug energy | 2.02 × 10¹³ J |
 | Nominal \(P\,t\) | Energy that actually left the aperture | 2.26 × 10¹³ J |
 
-**INFERENCE.** Lower intensity, different loading, or a shorter acceleration lane change every row. The table is one family, not a required unique sail.
+**INFERENCE.** Parent model: the same adopted family. Lower intensity, different loading, or a shorter acceleration lane change every row. The table is one family, not a required unique sail.
 
-**INFERENCE.** Diffraction check only: a 1 μm source with a 5 km aperture has an Airy first-dark-ring diameter \(2.44\,\lambda L/D \approx 3.57\) m at \(L=7.31\times10^9\) m. Order-of-magnitude against the circular-equivalent 1 g row. It does not guarantee full power on the 3.57 m sail. Launch stills use a diamond planform; this check is not re-fit to that outline.
+**INFERENCE.** Diffraction check only, parent model: an idealised 1 μm source with a 5 km aperture. Airy first-dark-ring diameter \(2.44\,\lambda L/D \approx 3.57\) m at \(L=7.31\times10^9\) m. Order-of-magnitude against the circular-equivalent 1 g row. It does not guarantee full power on the 3.57 m sail. Launch stills use a diamond planform; this check is not re-fit to that outline.
 
 ## Obsolete model
 
-**CANON.** Constant 0.001 \(g_0\) bang-coast-bang with ~198 yr burns and a ~5 106 yr Kepler transit is an obsolete default. Keep it only as a labelled historical note.
-
-That model gave a 7191–7201 A.D. arrival band by adding two long burns. Do not reuse that band as the current arrival window.
+**CANON.** Constant 0.001 \(g_0\) bang-coast-bang with ~198 yr burns and a ~5 106 yr Kepler transit is an obsolete default. Keep it only as a labelled historical note. That model gave a 7191–7201 A.D. arrival band by adding two long burns. Do not reuse that band as the current arrival window.

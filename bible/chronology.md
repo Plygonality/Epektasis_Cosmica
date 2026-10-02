@@ -20,7 +20,7 @@ Reader-facing dates are Gregorian A.D. Tagged summaries also live in [`wiki.md`]
 
 **CANON.** Computational acceleration does not remove energy cost or the 982 yr light-travel delay.
 
-**OPEN.** What hardware keeps the external and onboard clocks.
+**OPEN.** The hardware that maintains the external and onboard clocks remains unset. The frames themselves are locked.
 
 ## 2. Light-travel
 
@@ -44,17 +44,23 @@ Reader-facing dates are Gregorian A.D. Tagged summaries also live in [`wiki.md`]
 
 **CANON.** After the laser boost, the original Kepler hop coasts at approximately 0.2c until some later, unspecified capture.
 
-**INFERENCE.** 982 ly at 0.2c is 4 910 external years. \(\gamma(0.2c)\approx 1.021\), so onboard coast time is about 4 811 years.
+**INFERENCE.** Parent model: idealised coast at the locked 0.2c over the locked 982 ly, stationary endpoints. 982 ly / 0.2c is 4 910 external years. \(\gamma(0.2c)\approx 1.021\), so onboard coast time is about 4 811 years.
 
-**INFERENCE.** Launches in 2085–2095 imply unbraked passage near the target around 6995–7005 A.D. Those are passage estimates, not verified capture or settlement dates.
+**INFERENCE.** Parent model: idealised coast at 0.2c after the reference boost, stationary endpoints, 982 ly. Launches in 2085–2095 imply unbraked passage near Kepler-62 in 6995–7005 A.D. Those are passage estimates, not capture dates and not settlement dates.
 
-**CANON.** 7191–7201 A.D. is not the current default arrival window. That band belonged to the obsolete 0.001 g burn model.
+**CANON.** 6995–7005 A.D. is an unbraked passage band. It is not a capture date and not a settlement date.
 
-**INFERENCE.** The 226 s boost is negligible on a historical table.
+**CANON.** 7191–7201 A.D. is not the current default arrival window. That band belonged to the obsolete 0.001 g burn model. Keep those figures only as labelled obsolete history.
+
+**INFERENCE.** Parent model: the reference boost in [`appendix-launch.md`](appendix-launch.md). The 226 s launch-frame boost is negligible on a historical table.
 
 ## 5. Timeline
 
-Pre-launch rows are programme history. They are fiction, not forecasts.
+**CANON.** Rows in the Established fiction band are locked programme history. They are fiction, not forecasts. The 6995–7005 row is the model-derived passage band in §4. Provisional rows are order of operations, not calendar locks.
+
+**CANON.** Sol continues changing after a probe's departure cutoff. Local Solar System branches run in parallel with the distant Kepler coast. The interstellar hops remain long commitments. Archive cutoffs: [`probes.md`](probes.md) §4.
+
+**OPEN.** Whether Sol maintains a live command loop or only delayed archive and confirmation traffic.
 
 | Gregorian dates | Development | Band |
 | --- | --- | --- |
@@ -67,21 +73,21 @@ Pre-launch rows are programme history. They are fiction, not forecasts.
 | 2078–2085 | Archive assembly, mind recruitment, replication and activation rules. | Established fiction |
 | 2085–2095 | About one billion original probes dispatched in batches of thousands. Founding event. Launch stills `04-boom` / `05-cross` / `06-face` / `07-fleet` depict this window near Earth, not Kepler arrival. | Established fiction |
 | Late 2080s–2200 | Local Solar System branches expand. Earth sees local return. Interstellar hops remain long commitments. | Established fiction |
-| 2300–6900 | Nearer settlements may evolve, launch descendants, and exchange delayed mail. Whether any of that precedes original Kepler probes is OPEN. | Provisional |
+| 2300–6900 | No locked nearer-settlement history. Whether later faster missions or nearer-system descendants reach Kepler-62 before the original probes stays OPEN. | Provisional |
 | 6995–7005 | Unbraked passage of original Kepler batches near the target, if they are still coasting at 0.2c. | Model-derived |
-| After successful capture | Industry, archive verification, compute, selected activation. A surviving archive is not yet a society. | Provisional |
+| After successful capture | Order: power and industry, archive verification, computation, then selected activation. A surviving archive is not yet a society. | Provisional |
 | After first cells close | Independent orbital cells proliferate and specialise. Lineages and preservation practices diverge. | Provisional |
 | Later | Some cells isolate or go obsolete. The featured Habitat-kit cell enters the relic state. | Provisional |
 | After that stellar-era sequence | Nullseed phase I. Post-biological descendants adopt the terminal-class architecture. No year. | Provisional |
 | Cosmological epochs after phase I | Nullseed phases II–X. External labels are epoch names in [`nullseed.md`](nullseed.md). Not A.D. dates. | Provisional |
 
-**INFERENCE.** An arrival confirmation, if sent at a capture date \(T\), can reach Sol around \(T+982\). An immediate reply can reach Kepler around \(T+1964\). \(T\) itself is OPEN.
+**INFERENCE.** Parent model: idealised stationary endpoints and the 982 yr one-way light time in §2. A confirmation sent at capture date \(T\) arrives at Sol around \(T+982\). An immediate reply arrives at Kepler around \(T+1964\). \(T\) itself is OPEN.
 
 ## 6. Later, faster missions
 
 **OPEN.** Whether later faster missions, or descendants from nearer systems, arrive at Kepler-62 before the original 2085–2095 probes.
 
-**INFERENCE.** A later hop that coasts at 0.5c would take about 1 964 external years for 982 ly, plus its own boost and an unspecified capture. That is a capability sketch, not a locked launch.
+**INFERENCE.** Parent model: idealised coast at 0.5c over 982 ly, plus an unspecified boost and an unspecified capture. External coast time is about 1 964 yr. This is a sketch. It is not a locked launch.
 
 ## 7. Nullseed epochs
 
@@ -89,6 +95,6 @@ Pre-launch rows are programme history. They are fiction, not forecasts.
 
 **CANON.** No Gregorian construction date is assigned. Assigning one is a defect. External labels are cosmological epoch names: Stelliferous, Degenerate, Black Hole, Dark. Those names are order labels taken from the broad sequence in Adams and Laughlin (1997). Their boundary years are not copied into this table. See [`nullseed.md`](nullseed.md).
 
-**CANON.** Hibernation on the Nullseed is dormancy under §1. A mind can accumulate centuries of experienced time while the external log advances by trillions of years because the mind is not running during the gap. That is not time dilation.
+**CANON.** Hibernation on the Nullseed is dormancy under §1, not relativistic time dilation. The centuries-against-trillions illustration belongs to [`nullseed.md`](nullseed.md). This sentence is the index.
 
 **CANON.** Phase X, the daughter-universe lineage, is not a message received at Sol or at Kepler-62. It does not extend the Gregorian frame.

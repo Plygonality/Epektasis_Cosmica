@@ -93,7 +93,7 @@
     {
       "id": "tags",
       "tag": "CANON",
-      "statement": "Keep CANON / INFERENCE / OPEN. Definitions: schema/status-tags.md."
+      "statement": "Keep CANON / INFERENCE / OPEN / PROPOSED. PROPOSED is staging only and does not close an OPEN item. Definitions: schema/status-tags.md."
     }
   ]
 }

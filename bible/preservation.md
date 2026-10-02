@@ -18,9 +18,9 @@ Competing Earth reconstructions from one finite archive. Production mapping: [`p
 
 ## Narrative use
 
-**CANON.** Newly recovered information can show that part of a long-established ecosystem differs from its Earth reference. Correcting it would damage living communities that already depend on it.
+**CANON.** Newly recovered information can reveal that a long-established ecosystem differs from an Earth reference. Correcting the discrepancy can conflict with living communities already dependent on the derived system.
 
-That conflict can exist in an operational cell. It does not require a new epoch ID.
+**CANON.** That conflict is compatible with an operational cell. It does not add a Time-slice epoch ID.
 
 ## Visual use
 

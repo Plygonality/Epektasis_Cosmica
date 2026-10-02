@@ -1,6 +1,8 @@
 # Production map
 
-No new world facts. Thin map of the wiki onto Habitat-kit, Time-slice, Probe-kit, Unit-canon, Collection-linter, and Blend-ci. Habitat-kit owns graphs, cooks, and dump runbooks. Do not grow this file into a Habitat-kit playbook. If a sentence is not a mapping, delete it.
+No new world facts. Thin map onto Habitat-kit, Time-slice, Probe-kit, Unit-canon, Collection-linter, and Blend-ci. Habitat-kit owns graphs, cooks, and dump runbooks. Do not grow this file into a Habitat-kit playbook. If a sentence is not a mapping, delete it.
+
+Numbers and epoch readings below are index-only. The tagged detail file owns the world fact. This file owns the socket.
 
 ## 1. Who builds what
 
@@ -16,7 +18,7 @@ No new world facts. Thin map of the wiki onto Habitat-kit, Time-slice, Probe-kit
 
 ## 2. Habitat Cuts → Time-slice
 
-Same hull. Epoch is a socket pack. Habitat-kit does not fork Time-slice. System history does not add IDs.
+Same hull. Epoch is a socket pack. Habitat-kit does not fork Time-slice. System history does not add IDs. World-fact owner for the three readings: [`featured-cell.md`](featured-cell.md). The table below is the socket map.
 
 | Habitat Cut | Time-slice `epoch` | Decay-pass | Signal-field |
 | --- | --- | --- | --- |
@@ -64,7 +66,7 @@ Rejected:
 
 ## 4. Still mapping
 
-`stills/` is a cache of key-art, two families (Git LFS). Blend-ci does not cook them. Habitat-kit does not rebuild them. Habitat Cuts are generated from Habitat-kit. Captions: [`wiki.md`](wiki.md) §13.
+`stills/` is a cache of key-art, two families (Git LFS). Blend-ci does not cook them. Habitat-kit does not rebuild them. Habitat Cuts are generated from Habitat-kit. Kepler-system captions: [`wiki.md`](wiki.md) §13.1–13.3. Launch look-dev: [`probes.md`](probes.md) §11.
 
 | Still | File | Owner | Camera |
 | --- | --- | --- | --- |
@@ -97,6 +99,8 @@ If look-dev is chasing these frames:
 
 ## 5. Lighting map
 
+Index of [`wiki.md`](wiki.md) §6 and §8. Not a second source of flux or temperature.
+
 | Quantity | Work figure | Where it lands |
 | --- | --- | --- |
 | Star | K2, 0.26 L☉ | HDRI / sun lamp color. |
@@ -105,7 +109,7 @@ If look-dev is chasing these frames:
 | Active plant | Separate from Teq | Computers and radiators have their own temperatures. |
 | Key | Work lights | Construction: arcs, temporary. Operational: structured. Relic: sparse leftovers. |
 
-Earth-noon viewport on a Kepler cell means the cook is wrong. Mesh can still be right. Sol launch stills `04`–`07` may show Earth. That is the other family.
+Earth-noon viewport on a Kepler cell means the cook is wrong. The mesh is a separate check. Sol launch stills `04`–`07` show Earth. That is the other family.
 
 ## 6. Scale map
 

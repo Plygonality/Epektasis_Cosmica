@@ -63,7 +63,7 @@
   ],
   "$defs": {
     "tag": {
-      "enum": ["CANON", "INFERENCE", "OPEN"]
+      "enum": ["CANON", "INFERENCE", "OPEN", "PROPOSED"]
     },
     "owner": {
       "enum": ["stapledon-swarm", "unit-canon"]
